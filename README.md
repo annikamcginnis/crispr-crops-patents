@@ -51,7 +51,7 @@ I used the Scrollama story template and modified the code so that a new graphic 
 
 This project was challenging on many levels: 1, scraping the data from a non-organized site, which required a lot of manual cleaning that took about a week to complete; and 2) building a waffle chart that would change display as I scrolled. I learned more on how to use Illustrator to develop more creative graphics. However, I know I can still improve my speed and workflows in Illustrator, which I am in the beginning stages of exploring - especially improving how to create multiple charts that require identical placement and sizing, but contain slightly different elements. 
 
-I was also able to use the Google Places API for the first time, which pretty accurately detected lat/longs based on place names, compared to the Geocode API. This project also enabled me to bring together a lot of skills from past projects, like categorizing using the Gemini LLM and conducting in-depth analysis using Pandas.
+I was also able to use the Google Places API for the first time, which pretty accurately detected lat/longs based on place names, compared to the Geocode API. This project also enabled me to bring together a lot of skills from past projects, like scraping with Playwright and BeautifulSoup, categorizing using the Gemini LLM and conducting in-depth analysis using Pandas.
 
-I was able to make my scrolly graphic work by producing 9 different versions of my chart, but I'd like to learn how to do this using d3 or other coding languages.
+I was able to make my scrolly graphic work by producing 9 different versions of my chart, but I'd like to learn how to do this using d3 or other coding languages so that the final experience is smoother.
  
