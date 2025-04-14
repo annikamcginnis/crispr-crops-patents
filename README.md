@@ -1,4 +1,4 @@
-# Scraping CRISPR crops patents, analyzing in Python and visualizing with Illustrator and Scrollama: [Story]([https://annikamcginnis.github.io/crispr-crops/])
+# Scraping CRISPR crops patents, analyzing in Python and visualizing with Illustrator and Scrollama: [Story](https://annikamcginnis.github.io/crispr-crops/)
 
 ## Goal
 - To understand trends in application and acquisition of CRISPR crops patents
