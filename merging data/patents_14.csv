@@ -1,0 +1,8089 @@
+Application Id,Application Number,Office,Application Date,Publication Number,Publication Date,Publication Kind,IPC,CPC,Applicants,Inventors,Priority Data,Title,Designated States,Abstract,Agents,Grant Number,Grant Date,Related Patent Documents
+CN237084961,201811137314,China,27.09.2018,109266646,25.01.2019,B,"C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/20
+					
+
+
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/20
+					
+
+
+
+
+
+
+View less classifications","C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 2310/10
+					
+
+
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 2310/10
+					
+
+
+
+
+
+
+View less classifications","OIL CROPS RESEARCH INSTITUTE, CHINESE ACADEMY OF AGRICULTURAL SCIENCES中国农业科学院油料作物研究所",WANG HANZHONG王汉中HUA WEI华玮ZHENG MING郑明YANG HONGLI杨红丽ZHANG LIANG张亮,,(EN) Method and application of knocking out BnMAX1 gene in Brassica napus by CRISPR-Cas9 system(ZH) 利用CRISPR-Cas9系统敲除甘蓝型油菜BnMAX1基因的方法及应用,,"(EN) The invention discloses a method and application of knocking out a BnMAX1 gene in Brassica napus by a CRISPR-Cas9 system, two sgRNAs of specifically targeting Brassica napus BnMAX1 gene are designed and synthesized into oligo dimer, are connected with Cas9 vector, and introduced into hypocotyl callus of Brassica napus by Agrobacterium tumefaciens-mediated transformation to regerated into shoots. Cas9 nuclease was guided by sgRNA to cleave target sequence. Each sgRNA could pass through CRISPR-Cas9 system mediates the cleavage of BnMAX1 gene in A and C genomes, and achieves the goal of gene knockout. Phenotypic identification showed that homozygous mutant lines increased the number of branches and pods per plant, decreased plant height and increased yield.(ZH) 本发明公开了一种利用CRISPR‑Cas9系统敲除甘蓝型油菜BnMAX1基因的方法及应用，设计了两种特异性靶向甘蓝型油菜BnMAX1基因的sgRNA并制成oligo二聚体，与Cas9载体连接，通过农杆菌介导的遗传转化技术导入到甘蓝型油菜下胚轴愈伤并再生成苗，Cas9核酸酶在sgRNA的引导下，剪切目标序列，每条sgRNA都能通过CRISPR‑cas9系统介导A和C基因组上BnMAX1基因的剪切，达到基因敲除的目的。经过表型鉴定，发现纯合突变株系增加了分枝数、单株角果数，降低植株高度，同时也增加了产量。",武汉宇晨专利事务所 42001武汉宇晨专利事务所 42001,109266646,16.03.2021,"WO/2020/063775
+
+AU2019345788"
+US276885084,16468234,United States of America,08.12.2017,20190352652,21.11.2019,A1,"C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8283
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 2800/80
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 15/8283
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 2800/80
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+View less classifications","THE BROAD INSTITUTE, INC.MASSACHUSETTS INSTITUTE OF TECHNOLOGYREGENTS OF THE UNIVERSITY OF MINNESOTAPRESIDENT AND FELLOWS OF HARVARD COLLEGE",Omar ABUDAYYEHJoseph John BELANTOJonathan GOOTENBERGColby Garret STARKERDaniel Francis VOYTASFeng ZHANG,,(EN) CRISPR-SYSTEMS FOR MODIFYING A TRAIT OF INTEREST IN A PLANT,,"(EN) 
+The present invention generally relates to plants comprising a CRISPR system or parts of a CRISPR system, compositions, containers, polynucleotide, vectors, delivery systems, parts of plants, methods for production, CRISPR systems, and components thereof. Further aspects of the invention include a method for identifying a CRISPR system which is functional in a plant cell and a method for improving a CRISPR system in a plant.",,,,WO/2018/107103
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+CN222375053,201810030082,China,12.01.2018,108165578,15.06.2018,B,"C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/20
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/20
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+View less classifications",SICHUAN AGRICULTURAL UNIVERSITY四川农业大学,SUN BO孙勃ZHANG FEN张芬ZHENG AIHONG郑爱红TANG HAORU汤浩茹XUE SHENGLING薛生玲JIANG LEIYU江雷雨YUAN QIAO袁巧JIANG MIN江敏CHEN QING陈清ZHANG YONG张勇LUO YA罗娅WANG XIAORONG王小蓉WANG YAN王燕LIU ZEJING刘泽静LI MENGYAO李梦瑶,,(EN) High-efficiency preparation method for simultaneously preparing multiple member mutants of same gene family of cabbage mustard(ZH) 一种同时针对芥蓝同一基因家族多个成员突变体的高效制备方法,,"(EN) The invention provides a high-efficiency preparation method for simultaneously preparing multiple member mutants of the same gene family of cabbage mustard. The preparation method comprises the following steps: according to the whole length of each member of the gene family of the cabbage mustard, analyzing a target site of each member, and screening a common target sequence; constructing a CRISPR/Cas9 expression vector according to the selected target sequence, then transforming into agrobacterium competent state, infecting explants, and then performing tissue culture on the explants to obtain mutant plants. Multiple genes of the same gene family in a cabbage mustard plant are simultaneously knocked out through once transformation, and a large number of mutant materials can be obtained through mutation of different members, so that the mutation efficiency is improved, the workload is saved, the working time is saved, the problems that in past gene family mutation, multiple vectors arerequired to be designed respectively and the vectors are required to be separately transformed so as to obtain different mono-mutant and multi-mutant materials, induction is long in time and high indifficulty and the like are solved, and thus the advantages of simultaneousness and high efficiency of the preparation method are embodied.(ZH) 本发明提供了一种同时针对芥蓝同一基因家族多个成员突变体的高效制备方法，包括以下步骤：根据芥蓝基因家族各成员的CDS全长，分析其各成员的靶位点，筛选共同靶序列；根据选定的靶序列，构建CRISPR/Cas9表达载体，然后转化农杆菌感受态，浸染外植体，再对外植体进行组织培养，获得突变植株。本发明通过一次转化同时敲除芥蓝植物体内同一基因家族的多个基因，可得到大量的不同成员突变的突变体材料，提高了突变的效率，节省了工作量，节约了工作时间，解决了以往基因家族突变为获得不同的单突和多突材料，需分别设计多个载体，各载体需进行单独转化，同时诱导时间长和难度大等问题，进而体现了本发明同时、高效的优势。",成都正华专利代理事务所(普通合伙) 51229,108165578,14.07.2020,
+CN279818890,201910803890,China,28.08.2019,110577964,17.12.2019,B,"C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/10
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 5/08
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/10
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 5/08
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/102
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/102
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+View less classifications",SOUTH CHINA AGRICULTURAL UNIVERSITY华南农业大学,WANG HAIYANG王海洋KONG DEXIN孔德鑫WEI HONGBIN魏洪彬WANG BAOBAO王宝宝ZHAO YONGPING赵永平LIU YUTING刘宇婷ZHAO BINBIN赵斌斌LI QUANQUAN李全权XUE WEICONG薛伟聪,,(EN) Application of UB2/UB3 gene in regulation and control of corn multi-spike development(ZH) UB2/UB3基因在调控玉米多果穗发育中的应用,,"(EN) The invention discloses application of a UB2/UB3 gene in regulation and control of corn multi-spike development, and particularly relates to application of UB2 and UB3 gene double mutation in regulation and control of corn multi-spike development. According to the invention, gene editing is carried out on two targets UB2 and UB3 in corn by using a CRISPR/Cas9 transgenic technology, so that the target site of the UB2 gene has deletion of a basic group to cause frameshift mutation and deletion of large fragments of the UB3 gene. Results show that the tassel branch number of UB2 and UB3 double mutant plants is reduced, the increase of the spike number of the UB2 and UB3 double mutants is observed for the first time, new female spikes grow on spike stalks of main spikes, the multi-spike property is shown, auxiliary meristem at the lower part is also derepressed to be developed into female spikes, and phenotypes with increased aerial roots are accompanied; and it shows that after the UB2 gene and the UB3 gene are knocked out, a corn mutant plant can show a multi-spike phenotype. The invention provides a theoretical basis for genetic improvement of the corn multi-spike property has a large application prospect.(ZH) 本发明公开了UB2/UB3基因在调控玉米多果穗发育中的应用，具体为UB2和UB3基因双突变在调控玉米多果穗发育中的应用。本发明利用CRISPR/Cas9转基因技术对玉米中的UB2和UB3这两个靶点进行了基因编辑，使UB2基因的靶位点有碱基的缺失，导致移码突变，而UB3基因则大片段的删除；结果显示，UB2和UB3双突变体植株的雄穗分枝数减少，并首次观察到UB2和UB3双突变体的果穗数增加，主穗的穗柄上长出新的雌穗，表现出多穗性，下部的腋生分生组织也脱抑制发育成雌穗，并且伴有气生根增多的表型；表明敲除UB2和UB3基因后，可使玉米突变体植株表现出多果穗表型，本发明对玉米多穗性的遗传改良提供了理论依据，具有较大的应用前景。",广州粤高专利商标代理有限公司 44102,110577964,31.08.2021,
+,,,,,,,,,,,,,,,,,,
+CN199377632,201710030839,China,17.01.2017,106834341,13.06.2017,B,"C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/20
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/20
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8274
+					
+
+
+
+
+
+
+C12N 2800/22
+					
+
+
+
+
+
+
+C12N 2810/10
+					
+
+
+
+
+
+
+
+
+C12N 15/8274
+					
+
+
+
+
+
+
+C12N 2800/22
+					
+
+
+
+
+
+
+C12N 2810/10
+					
+
+
+
+
+
+
+View less classifications",CHINA AGRICULTURAL UNIVERSITY中国农业大学,JIANG LINJIAN姜临建CHEN QIJUN陈其军NI HANWEN倪汉文XU YONG许勇CHEN YIYU陈易雨WANG ZHIPING王志平,2016112550764 30.12.2016 CN,(EN) Gene site-directed mutation vector as well as construction method and application thereof(ZH) 一种基因定点突变载体及其构建方法和应用,,"(EN) The invention belongs to the technical field of bioengineering and in particular relates to a gene site-directed mutation vector as well as a construction method and application thereof. The invention provides the gene site-directed mutation vector due to lots of optimizations, cytosine deaminase is guided to be close to cytosine through a CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) system, the cytosine is changed into uracil, then uracil is changed into thymine through self-repair in plant cells, and finally, site-specific mutagenesis from C to T is realized in plants so as to generate resistance to herbicides. In addition, point mutation can be produced in a non-sgRNA targeted area, and novel herbicide-resistant great agronomic traits are brought.(ZH) 本发明属于生物工程技术领域，具体涉及一种基因定点突变载体及其构建方法和应用。本发明通过大量的优化，提供一种基因定点突变载体，通过CRISPR系统将胞嘧啶脱氨酶引导至胞嘧啶附近，将胞嘧啶变成尿嘧啶，随后植物细胞内的自发修复最终将尿嘧啶变成了胸腺嘧啶，最终在植物中实现C到T的定点突变，产生抗除草剂抗性。另外还可在非sgRNA靶点区域产生点突变，带来新的抗除草剂的重大农艺性状。",北京众合诚成知识产权代理有限公司 11246,106834341,16.06.2020,
+CN250406966,201910273522,China,05.04.2019,110079535,02.08.2019,B,"C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/65
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/65
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/65
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 2310/10
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/65
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 2310/10
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+View less classifications","SOUTH CHINA AGRICULTURAL UNIVERSITY华南农业大学BIOTECHNOLOGY RESEARCH INSTITUTE, CAAS中国农业科学院生物技术研究所",WANG HAIYANG王海洋WU GUANGXIA吴广霞XIE YURONG谢钰容ZHAO YONGPING赵永平SHEN RONGXIN沈荣鑫WANG BAOBAO王宝宝ZHENG ZHIGANG郑智刚,,(EN) Corn ZmPIF3s mutant protein and encoding gene and application in breeding thereof(ZH) 玉米ZmPIF3s突变型蛋白、其编码基因及其在育种上的应用,,"(EN) The invention discloses corn ZmPIF3s mutant protein and an encoding gene and application in breeding thereof. According to the corn ZmPIF3s mutant protein, corn ZmPIF3s protein is mutated by means ofgene editing to obtain the ZmPIF3s mutant protein with functions of reducing plant height and shortening mesocotyl length. The invention further provides a building method of a ZmPIF3s gene editing vector. The invention further discloses a breeding method for developing short-mesocotyl short-stalk corn by means of a gene editing technology. By means of the CRISPR/Cas9 gene editing technology, theZmPIF3s gene is edited, and by screening progeny, in a T2 generation, a T-DNA-removed novel material with genetically-stable characters of short mesocotyl and short stalks can be obtained. The mutantprotein and the gene editing technology can be applied for molecular breeding of plants, have the advantages of being fast, precise, efficient and the like, the breeding efficiency can be effectivelyimproved, and a breeding progress can be accelerated.(ZH) 本发明公开了玉米ZmPIF3s突变型蛋白、其编码基因及其在育种上的应用。本发明利用基因编辑对玉米ZmPIF3s蛋白进行突变，获得具有使株高变矮以及中胚轴长度缩短功能的ZmPIF3s突变蛋白。本发明还提供了ZmPIF3s基因编辑载体的构建方法。本发明进一步公开了利用基因编辑技术创制短中胚轴和矮杆玉米的育种方法。本发明利用CRISPR/Cas9基因编辑技术对ZmPIF3s基因进行编辑，通过后代的筛选在T2代就可获得剔除T‑DNA、具有短中胚轴和矮杆特性稳定遗传的新材料。本发明所提供的突变蛋白以及基因编辑技术能够应用于植物的分子育种，具有快速、精准、高效等优点，能有效提高育种效率并加快育种进程。",北京思元知识产权代理事务所(普通合伙) 11598北京思元知识产权代理事务所(普通合伙) 11598,110079535,28.01.2022,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+CN203405613,102017000146782,China,13.03.2017,107012164,04.08.2017,B,"C12N 15/82
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8213
+					
+
+
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+View less classifications",UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA电子科技大学,ZHANG YONG张勇TANG XU唐旭ZHENG XUELIAN郑雪莲DENG KEJUN邓科君ZHOU JIANPING周建平,2017100198425 11.01.2017 CN,"(EN) CRISPR/Cpf1 plant genome directional modification function unit, carrier comprising function unit, and application thereof(ZH) CRISPR/Cpf1植物基因组定向修饰功能单元、包含该功能单元的载体及其应用",,"(EN) The invention belongs to the technical field of gene engineering, and concretely relates to a CRISPR/Cpf1 plant genome directional modification function unit, a carrier comprising the function unit, and application thereof. The invention aims to build an effective plant genome CRISPR/Cpf1 directional modification framework carrier according to an action principle of a CRISPR/Cpf1 system and a vegetable cell gene expression characteristic, and realize high-efficient application thereof in plant genome directional modification. The technical scheme provided by the invention is characterized by building the CRISPR/Cpf1 plant genome directional modification framework carrier formed by lachnospiraceae bacterium Cpf1 nuclease protein (LbCpf1) expression unit and a guiding crRNA transcription expression unit. The invention also provides a method for designing specificity-guided crRNA and building a CRISPR/Cpf1 recombinant expression vector aiming at rice genome target loci by adopting the CRISPR/Cpf1 plant genome directional modification framework carrier. The invention provides the high-efficient CRISPR/Cpf1 plant directional modification framework carrier, which can effectively realize simple, fast and high-efficient directional modification based on the CRISPR/Cpf1 system aiming at a plant genome target sequence.(ZH) 本发明属于基因工程技术领域，具体涉及一种CRISPR/Cpf1植物基因组定向修饰功能单元、包含该功能单元的载体及其应用。本发明要解决的技术问题是：依据CRISPR/Cpf1系统的的作用原理及植物细胞基因表达特性，构建有效的植物基因组CRISPR/Cpf1定向修饰骨架载体，并实现其在植物基因组定向修饰中的高效应用。本发明的技术方案是：构建由一个毛螺科菌(Lachnospiraceae bacterium)Cpf1核酸酶蛋白(LbCpf1)表达单元及一个向导crRNA转录表达单元构成的CRISPR/Cpf1植物基因组定向修饰骨架载体。本发明还提供了采用所述的CRISPR/Cpf1植物基因组定向修饰骨架载体，针对水稻基因组目标位点设计特异性向导crRNA并构建CRISPR/Cpf1重组表达载体的方法。本发明提供了一种高效的CRISPR/Cpf1植物定向修饰骨架载体，可以针对植物基因组目标序列有效实现基于CRISPR/Cpf1系统的简单、快捷、高效定向修饰。",成都虹桥专利事务所(普通合伙) 51124,107012164,03.03.2023,
+EP214091171,16727228,European Patent Office,18.05.2016,3298149,28.03.2018,A1,"C12N 15/82
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8283
+					
+
+
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8283
+					
+
+
+
+
+
+
+View less classifications",UNIV KING ABDULLAH SCI & TECH,MAHFOUZ MAGDY MAHMOUDALI ZAHIR,201562162856 18.05.2015 US,(DE) VERFAHREN ZUR HEMMUNG VON PATHOGENEN PFLANZENVIRUSINFEKTIONEN DURCH CRISPR/CAS9-VERMITTELTER INTERFERENZ(EN) METHOD OF INHIBITING PLANT VIRUS PATHOGEN INFECTIONS BY CRISPR/CAS9-MEDIATED INTERFERENCE(FR) PROCÉDÉ D'INHIBITION D'INFECTIONS PAR DES PATHOGÈNES VIRAUX DES VÉGÉTAUX PAR INTERFÉRENCE À MÉDIATION PAR CRISPR/CAS9,"View all
+							
+
+
+
+AL, AT, BA, BE, BG, CH, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IS, IT, LI, LT, LU, LV, MC, ME, MK, MT, NL, NO, PL, PT, RO, RS, SE, SI, SK, SM, TR
+				
+
+Hide all","(EN) A genetically modified tobacco plant or tomato plant resistant to at least one pathogenic geminiviridae virus species is provided. The plant comprises a heterologous CRISPR/Cas9 system and at least one heterologous nucleotide sequence that is capable of hybridizing to a nucleotide sequence of the pathogenic virus and that directs inactivation of the pathogenic virus species or plurality of viral species by the CRISPR/Cas9 system. The heterologous nucleotide sequence can be complementary to, but not limited to an Intergenic Region (IR) of the Tomato Yellow Leaf Curl Virus (TYLCV), Further provided are methods of generating a genetically modified plant that is resistant to a virus pathogen by a heterologous CRISPR/Cas9 system and expression of a gRNA specifically targeting the virus.(FR) La présente invention concerne un plant de tabac ou de tomate génétiquement modifié résistant à au moins une espèce de virus pathogène de la famille des geminiviridae. Le plant comprend un système CRISPR/Cas9 hétérologue et au moins une séquence nucléotidique hétérologue capable de s'hybrider à une séquence nucléotidique du virus pathogène et qui dirige l'inactivation de l'espèce virale pathogène ou d'une pluralité d'espèces virales par le système CRISPR/Cas9. La séquence nucléotidique hétérologue peut être complémentaire, mais non limitée à une région intergénique (IR) du virus de la frisolée jaune de la tomate (TYLCV). Sont en outre prévus des procédés de production d'un plant génétiquement modifié qui est résistant à un pathogène viral par un système CRISPR/Cas9 hétérologue et l'expression d'un ARNg ciblant spécifiquement le virus.",,,,"US20190106706
+
+WO/2016/185411"
+CN291898449,201880042316,China,24.04.2018,110891965,17.03.2020,A,"C07K 14/005
+					
+
+
+
+
+
+
+C07K 14/315
+					
+
+
+
+
+
+
+C12N 5/10
+					
+
+
+
+
+
+
+C12N 15/63
+					
+
+
+
+
+
+
+
+
+C07K 14/005
+					
+
+
+
+
+
+
+C07K 14/315
+					
+
+
+
+
+
+
+C12N 5/10
+					
+
+
+
+
+
+
+C12N 15/63
+					
+
+
+
+
+
+
+View less classifications","C07K 14/005
+					
+
+
+
+
+
+
+C07K 14/315
+					
+
+
+
+
+
+
+C12N 15/63
+					
+
+
+
+
+
+
+C12N 2795/10322
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+
+
+C07K 14/005
+					
+
+
+
+
+
+
+C07K 14/315
+					
+
+
+
+
+
+
+C12N 15/63
+					
+
+
+
+
+
+
+C12N 2795/10322
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+View less classifications",DUPONT NUTRITION BIOSCIENCES APS杜邦营养生物科学有限公司UNIVERSITE LAVAL (CANADA)拉瓦尔大学（加拿大）,FREMAUX CHRISTOPHEC.弗雷莫HORVATH PHILIPPEP.霍瓦特ROMERO DENNIS AD.A.罗梅罗HYNES ALEXANDERA.海因斯MOINEAU SYLVAINS.穆瓦诺ROUSSEAU GENEVIEVEG.罗素YOUNG JOSHUAJ.扬LEMAY MARIE-LAURENCEM-L.李梅,"62/488,969 24.04.2017 US62/488,981 24.04.2017 US62/510,896 25.05.2017 US62/510,914 25.05.2017 US",(EN) METHODS AND COMPOSITIONS OF ANTI-CRISPR PROTEINS FOR USE IN PLANTS(ZH) 植物中使用的抗CRISPR蛋白的方法和组合物,,"(EN) Methods and compositions are provided for the use of anti-CRISPR (ACR) proteins in plants, including modulation of Cas endonuclease activity, improvement of frequency of homologous recombination, control of Cas endonuclease activity during various cell cycles, spatial and/or temporal regulation of Cas endonuclease activity in plants, usage in gene activation or repression, as well as reduction ofoff-target polynucleotide cleavage.(ZH) 提供了在植物中使用的抗CRISPR(ACR)蛋白的方法和组合物，包括调节Cas核酸内切酶活性、改善同源重组频率、在各细胞周期期间控制Cas核酸内切酶活性、对植物中Cas核酸内切酶活性进行空间和/或时间调节、在基因激活或阻抑中使用以及减少脱靶多核苷酸切割。",中国专利代理(香港)有限公司 72001中国专利代理(香港)有限公司 72001,,,"EP3615552
+
+BR112019022201
+
+US20200190492
+
+WO/2018/197520
+
+IN201917043473"
+MX407569783,2022005328,Mexico,03.05.2022,2022005328,21.07.2022,A,"C12N 15/113
+					
+
+
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/102
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/102
+					
+
+
+
+
+
+
+C12N 9/1276
+					
+
+
+
+
+
+
+C12Y 207/07049
+					
+
+
+
+
+
+
+C07K 2319/40
+					
+
+
+
+
+
+
+C07K 2319/70
+					
+
+
+
+
+
+
+C07K 2319/80
+					
+
+
+
+
+
+
+C07K 2319/85
+					
+
+
+
+
+
+
+View less classifications","PAIRWISE PLANTS SERVICES, INC.",Joseph Matthew WATTSAaron HUMMELYongjoo KIMShai Joshua LAWITDavid SCHWARK,"62/930,836 05.11.2019 US",(EN) COMPOSITIONS AND METHODS FOR RNA-ENCODED DNA-REPLACEMENT OF ALLELES.(ES) COMPOSICIONES Y METODOS PARA EL REEMPLAZO DE ALELOS CON ADN CODIFICADO POR ARN.,,"(EN) This invention relates to recombinant nucleic constructs comprising Type V CRISPR-Cas effector proteins, reverse transcriptases and extended guide nucleic acids and methods of use thereof for modifying nucleic acids in plants. In a first aspect, a method of modifying a target nucleic acid is provided, the method comprising: contacting the target nucleic acid with (a) a Type V CRISPR-Cas effector protein or a Type II CRISPR-Cas effector protein; (b) a reverse transcriptase, and (c) an extended guide nucleic acid (e.g., extended Type II or Type V CRISPR RNA, extended Type II or Type V CRISPR DNA, extended Type II or Type V crRNA, extended Type II or Type V crDNA), thereby modifying the target nucleic acid.(ES) Esta invención se refiere a construcciones nucleicas recombinantes que comprenden proteínas efectoras CRISPR-Cas de Tipo V, transcriptasa reversa y ácidos nucleicos guía extendidos, y métodos de uso de los mismos para modificar ácidos nucleicos en plantas.",,,,"WO/2021/092130
+
+JP2023505600
+
+EP4054621
+
+BR112022008415
+
+CN114901302
+
+KR1020220110748
+
+CA3160186
+
+SG11202204171Q
+
+AU2020380319
+
+US20210130835
+
+NZ787446
+
+IL292434
+
+BR112022008415This application is not viewable in PATENTSCOPE because the national phase entry has not been published yet or the national entry is issued from a country that does not share data with WIPO or there is a formatting issue or an unavailability of the application.
+
+CL2022001145
+
+US20240158804
+
+US20240167045"
+EP401173046,21778606,European Patent Office,27.08.2021,4204436,05.07.2023,A1,"C07K 14/315
+					
+
+
+
+
+
+
+C07K 14/195
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/10
+					
+
+
+
+
+
+
+
+
+C07K 14/315
+					
+
+
+
+
+
+
+C07K 14/195
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/10
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C07K 14/315
+					
+
+
+
+
+
+
+C07K 2319/00
+					
+
+
+
+
+
+
+C07K 2319/85
+					
+
+
+
+
+
+
+C07K 14/195
+					
+
+
+
+
+
+
+C07K 2319/80
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C07K 14/315
+					
+
+
+
+
+
+
+C07K 2319/00
+					
+
+
+
+
+
+
+C07K 2319/85
+					
+
+
+
+
+
+
+C07K 14/195
+					
+
+
+
+
+
+
+C07K 2319/80
+					
+
+
+
+
+
+
+C12N 15/102
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/70
+					
+
+
+
+
+
+
+C12N 15/907
+					
+
+
+
+
+
+
+C12N 15/111
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+View less classifications",PAIRWISE PLANTS SERVICES INC,GUFFY SHARON LEIGHWATTS JOSEPH MATTHEW,202063071734 28.08.2020 US,(DE) MANIPULIERTE CRISPR-CAS-PROTEINE UND VERFAHREN ZUR VERWENDUNG DAVON(EN) ENGINEERED CRISPR-CAS PROTEINS AND METHODS OF USE THEREOF(FR) PROTÉINES CRISPR-CAS INGÉNIÉRISÉES ET LEURS PROCÉDÉS D'UTILISATION,,"(EN) Described herein are engineered CRISPR-Cas proteins and methods of use of such proteins. In particular Type V CRISPR-Cas nucleases, like Cas12a, having a nuclease or nickase domain from a non-type V CRISPR-Cas nuclease inserted in the interdomain linker region between the Rec1 and Rec2 domains. Also described herein are complexes, compositions, and systems including engineered proteins of the present invention, each of which may be used for modifying or editing a target nucleic acid. An engineered protein of the present invention may be an enzyme and/or may be an RNA-guided DNA-binding protein.(FR) La présente invention concerne des protéines CRISPR-Cas ingéniérisées et leurs procédés d'utilisation. L'invention concerne en particulier des nucléases CRISPR-Cas de type V, telles que la nucléase Cas12a, ayant un domaine nucléase ou nickase provenant d'une nucléase CRISPR-Cas qui n'est pas de type V inséré dans la région de liaison interdomaine entre les domaines Rec1 et Rec2. L'invention concerne également des complexes, des compositions et des systèmes comprenant des protéines ingéniérisées de la présente invention, chacune desquelles pouvant être utilisée pour modifier ou éditer un acide nucléique cible. Une protéine ingéniérisée de la présente invention peut être une enzyme et/ou peut être une protéine de liaison à l'ADN guidée par ARN.",,,"View all
+							
+
+
+
+AL, AT, BA, BE, BG, CH, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IS, IT, LI, LT, LU, LV, MC, ME, MK, MT, NL, NO, PL, PT, RO, RS, SE, SI, SK, SM, TR
+				
+
+Hide all","WO/2022/047135
+
+AU2021331344
+
+CA3192195
+
+KR1020230058090
+
+JP2023539668
+
+CN116745415
+
+NZ797276
+
+IL300823
+
+MX2023002160
+
+CL2023000554
+
+BR112023003573This application is not viewable in PATENTSCOPE because the national phase entry has not been published yet or the national entry is issued from a country that does not share data with WIPO or there is a formatting issue or an unavailability of the application.
+
+IN202347022446This application is not viewable in PATENTSCOPE because the national phase entry has not been published yet or the national entry is issued from a country that does not share data with WIPO or there is a formatting issue or an unavailability of the application.
+
+SG11202301230XThis application is not viewable in PATENTSCOPE because the national phase entry has not been published yet or the national entry is issued from a country that does not share data with WIPO or there is a formatting issue or an unavailability of the application."
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+US398480033,17919503,United States of America,20.04.2021,20230159943,25.05.2023,A1,"C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+View less classifications",The Regents of the University of California,Steve E. JACOBSENZheng LIJennifer DOUDNAPatrick PAUSHBasem AL-SHAYEB,,(EN) CRISPR SYSTEMS IN PLANTS,,"(EN) 
+The present disclosure relates to CRISPR-Cas systems that utilize Cas 12J for editing nucleic acids in plants. Methods and compositions for using these systems for editing nucleic acids in plants are provided herein.",,,,"WO/2021/216512
+
+EP4139447"
+US240619102,15575749,United States of America,18.05.2016,20190106706,11.04.2019,B2,"C12N 15/82
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8283
+					
+
+
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8283
+					
+
+
+
+
+
+
+View less classifications",King Abdullah University of Science and Technology,Magdy Mahmoud MahfouzZahir Ali,Billion & ArmitageLisbeth C. Robinson,(EN) Method of inhibiting plant virus pathogen infections by CRISPR/Cas9-mediated interference,,"(EN) 
+A genetically modified tobacco plant or tomato plant resistant to at least one pathogenic geminiviridae virus species is provided. The plant comprises a heterologous CRISPR/Cas9 system and at least one heterologous nucleotide sequence that is capable of hybridizing to a nucleotide sequence of the pathogenic virus and that directs inactivation of the pathogenic virus species or plurality of viral species by the CRISPR/Cas9 system. The heterologous nucleotide sequence can be complementary to, but not limited to an Intergenic Region (IR) of the Tomato Yellow Leaf Curl Virus (TYLCV). Further provided are methods of generating a genetically modified plant that is resistant to a virus pathogen by a heterologous CRISPR/Cas9 system and expression of a gRNA specifically targeting the virus.",,10662437,26.05.2020,"EP3298149
+
+WO/2016/185411"
+EP442296968,23171650,European Patent Office,04.05.2023,4458963,06.11.2024,A1,"C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 15/10
+					
+
+
+
+
+
+
+C12N 15/90
+					
+
+
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 15/10
+					
+
+
+
+
+
+
+C12N 15/90
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/102
+					
+
+
+
+
+
+
+C12N 15/1058
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12Y 305/04004
+					
+
+
+
+
+
+
+C12N 15/902
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/102
+					
+
+
+
+
+
+
+C12N 15/1058
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12Y 305/04004
+					
+
+
+
+
+
+
+C12N 15/902
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 15/70
+					
+
+
+
+
+
+
+View less classifications",UNIV DRESDEN TECH,SÜRÜN DURANBUCHHOLZ FRANK,23171650 04.05.2023 EP,(DE) HOCHAKTIVE CRISPR-BASISEDITOREN DURCH CAS-UNTERSTÜTZTE SUBSTRATGEBUNDENE GERICHTETE EVOLUTION (CASLID)(EN) HIGHLY ACTIVE CRISPR BASE EDITORS OBTAINED THROUGH CAS-ASSISTED SUBSTRATE-LINKED DIRECTED EVOLUTION (CASLIDE)(FR) ÉDITEURS DE BASE CRISPR HAUTEMENT ACTIFS OBTENUS PAR ÉVOLUTION DIRIGÉE LIÉE À UN SUBSTRAT ASSISTÉE PAR CAS (CAGLOUSIER),,"(EN) The invention relates to a DNA modifying enzyme comprising or consisting of a DNA editing protein and a Cas protein and a peptide linker,wherein said DNA editing protein and said Cas protein are connected by said peptide linker; andwherein said DNA modifying enzyme has been obtained by directed molecular evolution of an original enzyme; andwherein said DNA modifying enzyme shows a base editing rate which is at least 10%, 20% or 30 %, preferably at least 40 %, more preferably at least 50 %, most preferably at least 60 % higher than the base editing rate of said wildtype enzyme.The invention relates further to a method of directed molecular evolution of a DNA modifying enzyme and to the use evolved DNA modifying enzymes in research, medicine and agriculture.",,,,WO/2024/227911
+CN243509537,201910159312.X,China,04.03.2019,109825532,31.05.2019,B,"C12N 15/90
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+
+
+C12N 15/90
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 15/8202
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 15/8202
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+View less classifications","KUNMING INSTITUTE OF BOTANY, CHINESE ACADEMY OF SCIENCES中国科学院昆明植物研究所",LIU LI刘莉PU XIAOJUN普晓俊LIU LINA刘丽娜LI PING李萍YANG HONG杨红,北京高沃律师事务所 11569,(EN) Application of CRISPR/Cas12a gene editing system in physcomitrella patens gene editing(ZH) CRISPR/Cas12a基因编辑系统在小立碗藓基因编辑中的应用,,"(EN) The invention provides application of a CRISPR/Cas12a gene editing system in physcomitrella patens gene editing, and belongs to the technical field of gene engineering. The application comprises the following steps that 1, a Cas12a protease expression vector is constructed; 2, a gRNA expression vector is constructed; 3, the Cas12a protease expression vector, the gRNA expression vector and resistance expression plasmids are used for converting physcomitrella patens, and resistance screening is carried out to obtain mutant plants. The CRISPR/Cas12a gene editing system applied to physcomitrella patens gene editing has the advantages of being high in gene editing efficiency, small in target missing probability and especially capable of achieving efficient editing of multiple targets.(ZH) 本发明提供了CRISPR/Cas12a基因编辑系统在小立碗藓基因编辑中的应用，属于基因工程技术领域，所述应用包括以下步骤：1)构建Cas12a蛋白酶表达载体；2)构建gRNA表达载体；3)采用Cas12a蛋白酶表达载体、gRNA表达载体和表达抗性的质粒对小立碗藓进行转化，经过抗性筛选得到突变体植株。本发明应用于小立碗藓基因编辑的CRISPR/Cas12a基因编辑系统具有基因编辑效率高、脱靶概率小、尤其能够高效编辑多靶标的优点。",,109825532,10.12.2019,US20200283744
+KR320320753,1020190175479,Republic of Korea,26.12.2019,1020210023645,04.03.2021,B1,"A24B 15/18
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/10
+					
+
+
+
+
+
+
+
+
+A24B 15/18
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/10
+					
+
+
+
+
+
+
+View less classifications","A24B 15/18
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C12N 9/1007
+					
+
+
+
+
+
+
+C12Y 201/01053
+					
+
+
+
+
+
+
+
+
+A24B 15/18
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C12N 9/1007
+					
+
+
+
+
+
+
+C12Y 201/01053
+					
+
+
+
+
+
+
+View less classifications",주식회사 케이티앤지KT & G CORPORATION,SEO HYO SEOKLEE YOUNG GILEE JEONG HEON서효석KIM KWANG CHUL이영기NA WOONG HYUN이정헌OH KYOUNG HWAN김광철JEON EUN YOUNG나웅현LEE JANG MI오경환전은영이장미,1020190103310 22.08.2019 KR,(EN) PLANT CELL WITH MANIPULATED PUTRESCINE N-METHYLTRANSFERASE GENE AND USING METHOD THEREOF(KO) PMT 유전자가 조작된 식물 세포 및 이의 이용 방법,,"(EN) The present invention relates to a plant cell manipulated by using a clustered regularly interspaced short palindromic repeats (CRISPR)/ CRISPR associated protein 9 (Cas9) system to decrease expression or activity of a putrescine n-methyltransferase (PMT) gene or PMT protein in comparison with a mother cell, plant including the same, a composition for inhibiting nicotine biosynthesis, a composition for PMT gene manipulation, a method for producing a plant cell in which nicotine biosynthesis is inhibited, and a method for manipulating a PMT gene in a plant cell. According to one aspect of the present invention, when the CRISPR/Cas9 system is used, a PMT gene in a plant cell can be manipulated to inhibit biosynthesis of nicotine, so that low-nicotine tobacco varieties according to international trends can be produced, thereby contributing to the domestic and foreign tobacco industry. The CRISPR/Cas9 system comprises at least one first polynucleotide and a second polynucleotide. COPYRIGHT KIPO 2022(KO) CRISPR/Cas9 시스템을 이용하여 모세포에 비해 PMT(putrescine N-methyltransferase) 유전자 또는 PMT 단백질의 발현 또는 활성이 감소되도록 유전적으로 조작된 식물 세포, 이를 포함하는 식물, 니코틴 생합성 억제용 조성물, PMT 유전자 조작용 조성물, 니코틴 생합성이 억제된 식물 세포 제조 방법 및 식물 세포의 PMT 유전자를 조작하는 방법에 관한 것이다.
+일 양상에 따른 CRISPR/Cas9 시스템을 이용하면 식물 세포 내 PMT 유전자가 조작되어 니코틴의 생합성이 억제될 수 있어, 국제 추세에 따른 저니코틴 담배 품종을 생산할 수 있어, 국내외 담배 업계에 이바지할 수 있다.",리앤목특허법인,102395185,10.05.2022,KR1020210023646
+KR329301569,1020200113810,Republic of Korea,07.09.2020,1020210077585,25.06.2021,B1,"A01H 1/02
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+
+
+A01H 1/02
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+View less classifications","A01H 1/02
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/8212
+					
+
+
+
+
+
+
+C12N 15/8216
+					
+
+
+
+
+
+
+C12N 15/8289
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+A01H 1/02
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/8212
+					
+
+
+
+
+
+
+C12N 15/8216
+					
+
+
+
+
+
+
+C12N 15/8289
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+View less classifications",경희대학교 산학협력단UNIVERSITY-INDUSTRY COOPERATION GROUP OF KYUNG HEE UNIVERSITY,JEON JONG SEONGLEE SANG KYUSHIM SU HYEON전종성이상규심수현,1020190168711 17.12.2019 KR,(EN) METHOD FOR PREPARING LOSS-OF-FUNCTION MUTANT IN F1 HYBRID USING CRISPR/Cas SYSTEM(KO) CRISPR/Cas 시스템을 이용한 일대잡종에서 기능상실 돌연변이체 제조 방법,,"(EN) The present invention relates to: a method for preparing a homozygous mutant or heterozygous mutant of a target gene in an F1 hybrid by preparing a transgenic plant in which a mutation for a target gene is induced, by using a CRISPR/Cas system, and crossing the transgenic plant with a wild-type plant; and a method for preparing a male sterile maintainer line or non-GMO plant that can be classified through fluorescence, by using a recombinant vector to which a fluorescently labeled gene is added. COPYRIGHT KIPO 2022(KO) 본 발명은 CRISPR/Cas 시스템을 이용하여 표적 유전자에 대한 돌연변이가 유발된 형질전환 식물체를 제조하고, 상기 형질전환 식물체와 야생형 식물체를 교배하여 일대잡종(F1)에서 표적 유전자에 대한 동형접합 돌연변이체 또는 이대립인자성 돌연변이체를 제조하는 방법; 및 형광표지 유전자가 추가된 재조합 벡터를 이용하여 형광을 통해 분류가 가능한 웅성불임 유지친 또는 Non-GMO 식물체를 제조하는 방법에 관한 것이다.",위병갑,102544413,16.06.2023,WO/2021/125503
+,,,,,,,,,,,,,,,,,,
+EP240628412,17728794,European Patent Office,30.05.2017,3464594,10.04.2019,A1,"C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+View less classifications","C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+View less classifications",KWS SAAT SE & CO KGAA,HUMMEL AARON,201662344109 01.06.2016 US,(DE) HYBRIDNUKLEINSÄURESEQUENZEN FÜR GENOMENGINEERING(EN) HYBRID NUCLEIC ACID SEQUENCES FOR GENOME ENGINEERING(FR) SÉQUENCES D'ACIDES NUCLÉIQUES HYBRIDES DESTINÉES À L'INGÉNIERIE GÉNOMIQUE,,"(EN) The present invention relates to hybrid nucleic acid sequence constructs comprising a CRISPR nucleic acid sequence and a DNA repair template associated with each other in a covalent and/or non-covalent way for CRISPR based genome engineering. Further provided is a molecular complex additionally comprising at least one CRISPR polypeptide. All components within the complex are in physical proximity. In addition, there is provided a plant, plant cell, a plant material, or a derivative, or progeny thereof comprising the hybrid RNA/DNA sequence and/or the molecular complex. Further, there is provided a method for modifying at least one DNA target sequence in a prokaryotic or eukaryotic cell as well as a method for manufacturing a plant or plant cell. Finally, there is provided the use of at least one hybrid RNA/DNA sequence, or use of a molecular complex for gene editing or genome engineering in a prokaryotic or eukaryotic cell or organism.(FR) La présente invention concerne des constructions de séquence d’acides nucléiques hybrides comprenant une séquence d’acides nucléiques CRISPR et une matrice de réparation d’ADN associés l’un à l’autre d’une manière covalente et/ou non covalente pour l’ingénierie génomique à base de CRISPR. L'invention concerne en outre un complexe moléculaire comprenant additionnellement au moins un polypeptide CRISPR. Tous les constituants au sein du complexe se trouvent en proximité physique. De plus, l'invention concerne une plante, une cellule végétale, un matériau végétal, ou un dérivé ou descendance de ces derniers comprenant la séquence d’ARN/d’ADN hybride et/ou le complexe moléculaire. L'invention concerne en outre un procédé de modification d’au moins une séquence cible d’ADN dans une cellule procaryote ou eucaryote ainsi qu’un procédé de fabrication d’une plante ou d’une cellule végétale. Enfin, l'invention concerne l’utilisation d’au moins une séquence d’ARN/d’ADN hybride, ou l’utilisation d’un complexe moléculaire d’édition de gène ou d’ingénierie génomique dans une cellule ou un organisme procaryote ou eucaryote.",,,,"AU2017272623
+
+KR1020190012229
+
+CN109642232
+
+US20190161760
+
+BR112018074494
+
+EA201892810
+
+WO/2017/207589
+
+JP2019517261
+
+CA3025828
+
+UAa201812605This application is not viewable in PATENTSCOPE because the national phase entry has not been published yet or the national entry is issued from a country that does not share data with WIPO or there is a formatting issue or an unavailability of the application.
+
+US20240376486"
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+EP400274288,21858957,European Patent Office,17.08.2021,4200413,28.06.2023,A4,"A01H 1/06
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+
+
+A01H 1/06
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/90
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 2310/16
+					
+
+
+
+
+
+
+C12N 2310/3519
+					
+
+
+
+
+
+
+A01H 1/06
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/90
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 2310/16
+					
+
+
+
+
+
+
+C12N 2310/3519
+					
+
+
+
+
+
+
+A01H 1/06
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C07K 2319/00
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/115
+					
+
+
+
+
+
+
+View less classifications",UNIV MARYLAND,QI YIPINGPAN CHANGTIAN,202063066674 17.08.2020 US,"(DE) ZUSAMMENSETZUNGEN, SYSTEME UND VERFAHREN ZUR ORTHOGONALEN GENOMMANIPULATION IN PFLANZEN(EN) COMPOSITIONS, SYSTEMS, AND METHODS FOR ORTHOGONAL GENOME ENGINEERING IN PLANTS(FR) COMPOSITIONS, SYSTÈMES ET PROCÉDÉS D'INGÉNIERIE GÉNOMIQUE ORTHOGONALE CHEZ LA PLANTE",,"(EN) The present disclosure relates to compositions and methods for simultaneous and combinational CRISPR-mediated gene activation, gene editing, and gene repression in plants based on a single Cas protein.(FR) La présente divulgation concerne des compositions et des procédés d'activation simultanée et combinatoire de gènes à médiation par CRISPR, l'édition de gènes et la répression de gènes chez la plante sur la base d'une seule protéine Cas.",,,,"WO/2022/040169
+
+US20230374528"
+US444948515,18758713,United States of America,28.06.2024,20250002883,02.01.2025,A1,"C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/90
+					
+
+
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/90
+					
+
+
+
+
+
+
+View less classifications","C12N 9/78
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/907
+					
+
+
+
+
+
+
+C12Y 305/04002
+					
+
+
+
+
+
+
+C07K 2319/00
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/907
+					
+
+
+
+
+
+
+C12Y 305/04002
+					
+
+
+
+
+
+
+C07K 2319/00
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+View less classifications",UNIVERSITY-INDUSTRY COOPERATION GROUP OF KYUNG HEE UNIVERSITYRESEARCH & BUSINESS FOUNDATION SUNGKYUNKWAN UNIVERSITY,Taeyoung KooDae Sik KimEun Young ChoiHye Yeon Hwang,1020230084418 29.06.2023 KR,(EN) COMPOSITION FOR GENE EDITING AND USE THEREOF,,"(EN) 
+The present disclosure relates to a composition for gene editing and a use thereof. According to the present disclosure, an adenine base editor LbABE8e system in which a Cas12a protein variant including one or more mutations and adenine deaminase are fused has altered PAM specificity to achieve a significant genomic single base editing effect on target DNA, and thus expands the range of applicable CRISPR system selection. Accordingly, due to gene editing, it is expected that the adenine base editor LbABE8e system may be widely used in various fields, such as gene therapy, creation of commercial profits with industrial strains with improved productivity, improvement of the quality of public health care through improvement of intestinal microorganisms, and improvement of crops and livestock breeds free from GMO issues.",,,,KR1020250001761
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+CN341236327,202110773909,China,08.07.2021,113564197,29.10.2021,B,"C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/66
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/66
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8216
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8216
+					
+
+
+
+
+
+
+View less classifications",SHANGHAI NORMAL UNIVERSITY上海师范大学,ZHANG HUI张辉WANG CHONG汪冲LUO PENGYU罗鹏宇HONG ZHENG洪政ZHANG YAJUN张亚军,浙江千克知识产权代理有限公司 33246,(EN) Construction method and application of CRISPR/Cas9 mediated plant polygene editing vector(ZH) 一种CRISPR/Cas9介导的植物多基因编辑载体的构建方法和应用,,"(EN) The invention discloses a method for constructing a plant polygene editing vector which is simple, convenient and efficient. The plant polygene editing vector comprises a pMK-(1-12) intermediate vector and a final vector pMMK-Cas9. The vector construction method comprises the following steps: a plurality of sgRNAs are connected onto a pMK (1-12) intermediate vector in a polycistron tRNA-gRNA manner, 1-8 sgRNAs can be connected to each intermediate vector to obtain a pMK (1-12)-PTG vector; U6/U3 expression cassettes on the plurality of pMK (1-12)-PTG vectors are connected to a pMMK-Cas9 vector, the pMMK-Cas9 can be connected with the U6/U3 expression cassettes on 2 to 7 pMK (1-12)-PTG vectors to obtain a pMMK-PTG vector, and multi-gene editing of 2-56 target sites can be obtained according to different target site and small vector combinations. The whole process can be completed only through one-time PCR reaction and two-time ""golden-gate"" linked system, and the process is simple and rapid. The invention also takes the vector knocking out 25 members of the rice LEA gene family as an example to verify the high efficiency of the vector multi-gene editing.(ZH) 本发明公开了一种构建简便、高效的植物多基因编辑载体方法，其包括pMK‑(1‑12)中间载体及终载体pMMK‑Cas9。载体构建的方法包括以下步骤：将多个sgRNA通过多顺反子tRNA‑gRNA方式连接到pMK(1‑12)中间载体上，每个中间载体上可以连接1‑8个sgRNAs，得到pMK(1‑12)‑PTG载体；将多个pMK(1‑12)‑PTG载体上的U6/U3表达盒连接到pMMK‑Cas9载体上，pMMK‑Cas9可以连接2个到7个pMK(1‑12)‑PTG载体上的U6/U3表达盒，得到pMMK‑PTG载体，根据不同的靶位点和小载体组合，可达到2‑56个靶位点的多基因编辑。整个流程只需要一次PCR反应和两次“金门”连接体系即可完成，流程简单快速。本发明还以该载体敲除水稻LEA基因家族25个成员为例，验证该载体多基因编辑的高效性。",,113564197,15.03.2024,
+CN398214587,202211268559,China,17.10.2022,116064645,05.05.2023,B,"C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/12
+					
+
+
+
+
+
+
+C12N 15/54
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/12
+					
+
+
+
+
+
+
+C12N 15/54
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 9/12
+					
+
+
+
+
+
+
+C12Y 207/11017
+					
+
+
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 9/12
+					
+
+
+
+
+
+
+C12Y 207/11017
+					
+
+
+
+
+
+
+View less classifications",HUIZHOU UNIVERSITY惠州学院,PENG XIAOQUN彭小群ZOU YAQI邹雅琦LUO SUWEI骆素微LUO JUAN罗娟ZHANG LIJUN张丽君LI XIAOSHI李晓诗DAI TIANYOU戴天佑WU SHUYING吴淑英WANG MENGLONG王梦龙,广东华专知识产权代理事务所(普通合伙) 44669,"(EN) OsCDPK14 gene for reducing maturing rate of rice, protein obtained by coding of OsCDPK14 gene and application of OsCDPK14 gene(ZH) 一种降低水稻结实率的OsCDPK14基因及其编码得到的蛋白和应用",,"(EN) The invention discloses an OsCDPK14 gene for reducing the maturing rate of rice, a protein obtained by encoding the OsCDPK14 gene and application of the OsCDPK14 gene, and relates to the field of biotechnology and breeding. According to the scheme, the function of the OsCDPK14 gene on reducing the maturing rate of the rice is verified in the rice through a gene knockout experiment; a mutant plant is obtained by constructing a CRISPR/Cas9 gene knockout vector to transform rice, the maturing rate of the mutant plant is remarkably reduced compared with that of a wild plant, it is indicated that the OsCDPK14 gene has the function of regulating and controlling the maturing rate of the rice, the biological function of the OsCDPK14 gene on reduction of the maturing rate of the rice is disclosed for the first time, and the application of the OsCDPK14 gene on reduction of the maturing rate of the rice is promoted. A new thought is provided for clarification of a complex agronomic trait related molecular mechanism, a theoretical foundation is laid for further rice yield breeding research and utilization, and a potential new gene resource is provided for rice breeding.(ZH) 本申请公开一种降低水稻结实率的OsCDPK14基因及其编码得到的蛋白和应用，涉及生物技术和育种领域；本方案通过基因敲除实验在水稻中验证了OsCDPK14基因在降低水稻结实率上的功能；通过构建CRISPR/Cas9基因敲除载体转化水稻，获得突变体植株，突变体植株结实率与野生型植株相比显著性降低，表明OsCDPK14基因具有调控水稻结实率的功能，本申请首次揭示了OsCDPK14基因于降低水稻结实率上的生物学功能，为阐明结实率这一复杂的农艺性状相关的分子机制提供了新的思路，为进一步水稻产量育种研究和利用奠定理论基础，为水稻育种提供了潜在的新基因资源。",,116064645,06.12.2024,
+CN345736688,202111069181,China,13.09.2021,113801891,17.12.2021,B,"C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/55
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/02
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/55
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/02
+					
+
+
+
+
+
+
+A01H 1/02
+					
+
+
+
+
+
+
+C12Q 1/6895
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 15/8287
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 1/02
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 15/8287
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 1/02
+					
+
+
+
+
+
+
+C12Q 1/6895
+					
+
+
+
+
+
+
+C12Q 2600/13
+					
+
+
+
+
+
+
+C12Q 2600/156
+					
+
+
+
+
+
+
+View less classifications",INNER MONGOLIA AUTONOMOUS REGION ACADEMY OF AGRICULTURAL & ANIMAL HUSBANDRY SCIENCES内蒙古自治区农牧业科学院,WU XINRONG吴新荣BAI CHEN韩平安SUN RUIFEN孙瑞芬LI XIAODONG李晓东HAN PING'AN白晨TANG KUANGANG唐宽刚CHANG YUE常悦ZHANG ZIQIANG张自强WANG LIANG王良ZHANG BIZHOU张必周LIANG YAHUI梁亚晖,北京方圆嘉禾知识产权代理有限公司 11385,(EN) Construction method and application of beet BvCENH3 gene haploid induction line(ZH) 甜菜BvCENH3基因单倍体诱导系的构建方法与应用,,"(EN) The invention provides a construction method and application of a beet BvCENH3 gene haploid induction line. The construction method of the beet BvCENH3 gene haploid induction line comprises the following steps of transforming a beet petiole by using agrobacterium tumefaciens containing a beet BvCENH3 gene double-target CRISPR/Cas9 editing carrier, and preparing a CENH3 gene mutated beet plant, wherein the double-target CRISPR/Cas9 editing vector of the beet BvCENH3 gene is a CRISPR/Cas9 vector containing two sgRNA (small guide ribonucleic acid) of the target beet CENH3 gene. According to the method, a haploid induction system based on CENH3 gene regulation and control is constructed, and a pBWA (V) K-EGFP-CENH3 complementary vector is constructed so as to save the embryo lethality of CENH3. The haploid breeding applying the technology can greatly shorten the beet breeding age limit, and is an efficient beet breeding way.(ZH) 本发明提供了一种甜菜BvCENH3基因单倍体诱导系的构建方法与应用。本发明的甜菜BvCENH3基因单倍体诱导系的构建方法包括：以含有甜菜BvCENH3基因双靶标CRISPR/Cas9编辑载体的农杆菌转化甜菜叶柄，制备CENH3基因突变的甜菜植株；其中，甜菜BvCENH3基因双靶标CRISPR/Cas9编辑载体为含有靶向甜菜CENH3基因的两个sgRNA的CRISPR‑Cas9载体。本发明构建了基于CENH3基因调控的单倍体诱导系，并构建了pBWA(V)K‑EGFP‑CENH3互补载体以挽救CENH3的胚胎致死性。应用本发明技术的单倍体育种可以大大缩短甜菜育种年限，是一种高效的甜菜育种途径。",,113801891,09.06.2023,
+CN370570721,202210606127,China,31.05.2022,114774459,22.07.2022,B,"C12N 15/80
+					
+
+
+
+
+
+
+C12N 15/66
+					
+
+
+
+
+
+
+C12N 1/15
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/56
+					
+
+
+
+
+
+
+C12R 1/645
+					
+
+
+
+
+
+
+
+
+C12N 15/80
+					
+
+
+
+
+
+
+C12N 15/66
+					
+
+
+
+
+
+
+C12N 1/15
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/56
+					
+
+
+
+
+
+
+C12R 1/645
+					
+
+
+
+
+
+
+View less classifications","C12N 15/80
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+
+
+C12N 15/80
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+View less classifications","ENVIRONMENT AND PLANT PROTECTION INSTITUTE, CHINESE ACADEMY OF TROPICAL AGRICULTURAL SCIENCES中国热带农业科学院环境与植物保护研究所",PENG JUN彭军ZHANG XIN张欣ZENG FANYUN曾凡云QI YANXIANG漆艳香DING ZHAOJIAN丁兆建WANG YANWEI王艳玮XIE PEILAN谢培兰XIE YIXIAN谢艺贤,广州三环专利商标代理有限公司 44202,"(EN) Banana fusarium wilt CRISPR/Cas9 gene editing vector, preparation method and application(ZH) 一种香蕉枯萎菌CRISPR/Cas9基因编辑载体、制备方法及应用",,"(EN) The invention provides a banana fusarium wilt CRISPR/Cas9 (clustered regularly interspaced short palindromic repeats/CRISPR associated protein 9) gene editing vector as well as a preparation method and application thereof. The vector comprises Cas9 and an sgRNA expression cassette, the Cas9 expression cassette comprises a PgpdA promoter, an optimization codon Foc4-Cas9 and an H2BNLS nuclear localization signal carried at the two ends of the codon Foc4-Cas9; a Pol III type 5SrRNA promoter and a gRNA sequence N20 are included in the sgRNA expression cassette; according to the banana fusarium wilt CRISPR/Cas9 gene editing vector constructed by the invention, a plasmid type CRISPR/Cas9 gene editing technology for expressing Cas9 and sgRNA in vivo with higher editing efficiency of banana fusarium wilt Foc4 is realized, the operation is simple, convenient and stable, and the CRISPR/Cas9 gene editing efficiency of banana fusarium wilt is fully improved.(ZH) 本发明提供一种香蕉枯萎菌CRISPR/Cas9基因编辑载体、制备方法及应用,该载体包括Cas9和sgRNA表达框；Cas9表达框中，包括PgpdA启动子、优化密码子Foc4‑Cas9和密码子Foc4‑Cas9两端携带的H2BNLS核定位信号；sgRNA表达框中，包括Pol III型5SrRNA启动子和gRNA序列N20；本发明构建的香蕉枯萎菌CRISPR/Cas9基因编辑载体，实现了香蕉枯萎菌Foc4的更高编辑效率的体内表达Cas9和sgRNA的质粒型CRISPR/Cas9基因编辑技术，操作简便且稳定，充分提高香蕉枯萎菌CRISPR/Cas9基因编辑效率。",,114774459,12.03.2024,
+CN281792435,201910995642,China,18.10.2019,110656114,07.01.2020,B,"C12N 15/29
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/12
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/12
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/825
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/825
+					
+
+
+
+
+
+
+View less classifications","CHINA TOBACCO YUNNAN INDUSTRIAL CO., LTD.云南中烟工业有限责任公司",LI XUEMEI李雪梅ZENG WANLI曾婉俐XIANG HAIYING向海英LI JING李晶YANG GUANGYU杨光宇SONG CHUNMAN宋春满GAO QIAN高茜ZHANG JIANDUO张建铎XU LI许力JIANG JIARUI蒋佳芮DENG LELE邓乐乐YANG WENWU杨文武,昆明正原专利商标代理有限公司 53100昆明正原专利商标代理有限公司 53100,(EN) Tobacco pigment synthesis associated gene and application thereof(ZH) 一种烟草色素合成相关的基因及其应用,,"(EN) The invention relates to a tobacco pigment synthesis associated gene and an application thereof, and belongs to the technical field of plant genetic engineering. According to the tobacco pigment synthesis associated gene Ntab0036220 provided by the invention, through RT-PCR, the inventor finds that the gene has expression in leaves. In strains for editing the tobacco pigment synthesis associated gene Ntab0036220, the expression level of the tobacco pigment synthesis associated gene Ntab0036220 in the leaves is notably reduced compared with a control (free from transformation ) strain. A CRISPR/Cas9 mediated gene editing technique is adopted, so that a CRISPR/Cas9 editing carrier for knocking out the Ntab0036220 gene is constructed, and through heredity transformation, mammoth gold of whichthe Ntab0036220 gene is edited is obtained. For the obtained strain, the content of neoxanthin, violaxanthin, xanthophyll, chlorophyll b, chlorophyll a and carotene is obviously reduced.(ZH) 本发明涉及一种烟草色素合成相关的基因及其应用，属于植物基因工程技术领域。本发明提供的烟草色素合成相关的基因Ntab0036220，通过RT‑PCR发现，该基因在叶片中有表达。在编辑烟草色素合成相关的基因Ntab0036220的植株中，烟草色素合成相关的基因Ntab0036220在叶片中的表达量较对照（未转化）植株显著降低。本发明通过CRISPR/Cas9介导的基因编辑技术，构建了用于敲除Ntab0036220基因的CRISPR/Cas9编辑载体，经遗传转化后获得了Ntab0036220基因发生编辑的红花大金元植株，所获植株的新黄质、紫黄质、叶黄素、叶绿素b、叶绿素a和胡萝卜素含量明显降低。",,110656114,01.07.2022,
+CN241488075,201910079904,China,28.01.2019,109609517,12.04.2019,B,"C12N 15/29
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8282
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8282
+					
+
+
+
+
+
+
+View less classifications",ZHEJIANG UNIVERSITY浙江大学,YU JINGQUAN喻景权PAN CAIZHE潘蔡哲SHI KAI师恺,杭州天勤知识产权代理有限公司 33224,(EN) Application of SlGLR3 gene in improvement of plant gray mold resistance(ZH) SlGLR3基因在提高植物灰霉病抗性中的应用,,"(EN) The invention discloses application of an S1GLR3 gene in improvement of plant gray mold resistance. The nucleotide sequence of a S1GLR3 gene protein coding region is as shown in SEQ ID NO. 1. According to the invention, a CRISPR/Cas9 gene editing technology is used to obtain a tomato glr3 deletion mutant plant, and the technical scheme proves that the application of the SlGLR3 gene in improvementof plant gray mold resistance can be used for selective breeding of gray-mold-resistant tomatoes.(ZH) 本发明公开了SlGLR3基因在提高植物灰霉病抗性中的应用，所述SlGLR3基因蛋白编码区的核苷酸序列如SEQ ID NO.1所示。本发明利用CRISPR/Cas9基因编辑技术获得番茄glr3缺失突变体植株，证明了SlGLR3基因在提高植物灰霉病抗性中的应用，可用于抗灰霉病番茄的选育。",,109609517,19.06.2020,
+CN338598829,202010199886,China,20.03.2020,113429467,24.09.2021,B,"C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 5/06
+					
+
+
+
+
+
+
+A01H 6/54
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 5/06
+					
+
+
+
+
+
+
+A01H 6/54
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 15/8271
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 15/8271
+					
+
+
+
+
+
+
+View less classifications",INSTITUTE OF MICROBIOLOGY CHINESE ACADEMY OF SCIENCES中国科学院微生物研究所,KONG ZHAOSHENG孔照胜WANG QI王琪ZHANG XIAXIA张霞霞HUANG YIGE黄弋戈REN JING任静,北京纪凯知识产权代理有限公司 11245,(EN) Application of NPF7.6 protein in regulation and control of nitrogen tolerance of leguminous plant root nodules(ZH) NPF7.6蛋白在调控豆科植物根瘤耐氮性中的应用,,"(EN) The invention discloses application of NPF7.6 protein in regulation and control of nitrogen tolerance of leguminous plant root nodules. The amino acid sequence of the NPF7.6 protein is shown as SEQ ID No.2. The invention provides a method for improving nitrogen resistance of leguminous plant root nodules, which comprises the following steps of editing a gene for coding NPF7.6 protein at a fixed point by utilizing a CRISPR/Cas9 technology, namely knocking out a medicago truncatula NPF7.6 gene, so as to obtain a new germplasm of which the root nodule nitrogen resistance is obviously improved; and the nitrogen resistance of the root nodules is improved by increasing the biomass of the root nodules and increasing the length of the root nodules. The application has important application value for plant breeding.(ZH) 本发明公开了NPF7.6蛋白在调控豆科植物根瘤耐氮性中的应用，NPF7.6蛋白的氨基酸序列是SEQ ID No.2所示。本发明提供了一种提高豆科植物根瘤耐氮性的方法，利用CRISPR/Cas9技术定点编辑编码NPF7.6蛋白的基因，即敲除蒺藜苜蓿NPF7.6基因，获得了根瘤耐氮性显著提高的新种质；根瘤耐氮性提高体现为根瘤生物量的增加和根瘤长度的增加。本发明对植物育种具有重大的应用价值。",,113429467,24.01.2023,
+CN361390364,202210296828,China,24.03.2022,114438105,06.05.2022,B,"C12N 15/29
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+A01H 5/12
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+A01H 5/12
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+View less classifications",LIMITED RESPONSIBILITY COMPANY OF YUNNAN CHINESE TOBACCO INDUSTRY云南中烟工业有限责任公司,YANG WENWU杨文武MI QILI米其利ZENG WANLI曾婉俐SU YANG苏杨LIU XIN刘欣GAO XI高茜JIANG JIARUI蒋佳芮LI XUEMEI李雪梅LI JING李晶ZHANG JIANDUO张建铎,,(EN) Tobacco NtMLO6-1 gene and knockout method and application thereof(ZH) 一种烟草NtMLO6-1基因及其敲除方法与应用,,"(EN) The invention discloses a tobacco NtMLO6-1 gene as well as a knockout method and application thereof. The base sequence of the tobacco NtMLO6-1 gene is as shown in SEQ ID No. 1. The method comprises the following steps: knocking out a gene editing plant of an NtMLO6-1 gene by utilizing a CRISPR/Cas9 mediated gene editing technology; the total nitrogen content and the amino acid content in the NtMLO6-1 gene knockout edited plant leaves are remarkably increased, and genetic materials and references are provided for tobacco MLO gene family regulation mechanism research and tobacco leaf total nitrogen and amino acid content regulation.(ZH) 本发明公开了一种烟草NtMLO6‑1基因及其敲除方法与应用，烟草NtMLO6‑1基因的碱基序列如SEQ ID No.1所示。本发明利用CRISPR/Cas9介导的基因编辑技术敲除NtMLO6‑1基因的基因编辑植株；NtMLO6‑1基因敲除编辑植株叶片中总氮和氨基酸含量显著增加，为烟草MLO基因家族调控机制研究、烟叶总氮及氨基酸含量调控提供遗传材料和参考借鉴。",北京维澳知识产权代理有限公司 11252,114438105,17.11.2023,
+CN295319583,202010014813,China,07.01.2020,111118056,08.05.2020,B,"C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8213
+					
+
+
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+View less classifications",HUNAN HYBRID RICE RESEARCH CENTER湖南杂交水稻研究中心,ZHAO BINGRAN赵炳然LYU QIMING吕启明ZHANG XIULI张秀丽MAO BIGANG毛毕刚TANG LI唐丽HUANG ZHIYUAN黄志远ZHENG WENJIE郑文杰,,(EN) Method for realizing rice heterosis fixation(ZH) 一种实现水稻杂种优势固定的方法,,"(EN) The invention discloses a method for realizing rice heterosis fixation. An OsMADS13 promoter and a rice BBM1 gene coding sequence are connected to construct an expression cassette A; a rice zygotic embryo development key gene OsMPK6 double-target CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats)/ Cas9 knockout expression cassette B is constructed; the expression cassette A and theexpression cassette B are integrated to the same expression carrier, the expression carrier is converted into a hybrid rice seed through an agrobacterium-mediated method to obtain a T0-geneation plant; and the T0-geneation plant is subjected to selfing to obtain a selfed seed. According to the method disclosed by the invention, a rice nucellus tissue is used for specifically expressing the promoter, and a rice embryo forming key gene is subjected to specific expression in the hybrid rice nucellus tissue to induce a nucellus tissue somatic cell to form an adventitious embryo; the rice zygoticembryo development key gene is knocked out to damage a sexual reproduction process of the rice; and finally, through hybrid rice selfing, a seed capable of realizing rice heterosis fixation through asomatic cell adventitious embryo way is formed. According to the method, hybrid rice grouping efficiency can be greatly improved, and seed production does not need to be carried out in each year.(ZH) 本发明公开了一种实现水稻杂种优势固定的方法，将OsMADS13启动子与水稻BBM1基因编码序列连接，构建表达盒A；构建水稻合子胚发育关键基因OsMPK6双靶点CRISPR/Cas9敲除表达盒B；将表达盒A和B整合到同一表达载体上，并通过农杆菌介导法转化到杂交水稻种子中得到T0代植株；T0代植株进行自交得到自交种子。本发明利用水稻珠心组织特异表达启动子，将水稻成胚关键基因在杂交水稻珠心组织中特异表达，诱导珠心组织体细胞形成不定胚；将水稻合子胚发育关键基因敲除，破坏水稻有性生殖过程；最后通过杂交水稻自交，形成以体细胞不定胚方式固定水稻杂种优势的种子，可以大大提高杂交水稻配组效率，无需年年制种。",湖南兆弘专利事务所(普通合伙) 43008,111118056,09.05.2023,
+CN374079005,202210680893,China,15.06.2022,114989283,02.09.2022,B,"C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8282
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8282
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+View less classifications",SHENYANG AGRICULTURAL UNIVERSITY沈阳农业大学,SUN QIAN孙倩XUAN YUANHU玄元虎LIN QIUJUN林秋君MEI QIONG梅琼YANG SHUO杨硕CHEN HUAN陈欢LI ZHUO李卓,,(EN) Application of TCP19 protein in regulation and control of rice sheath blight resistance(ZH) TCP19蛋白在调控水稻抗纹枯病中的应用,,"(EN) The invention provides application of TCP19 protein in regulation and control of rice sheath blight resistance, and relates to the technical field of biology. According to the invention, a coding gene of a TCP19 protein in receptor rice is edited through CRISPR/Cas9 gene editing, and a TCP19 knockout transgenic plant tcp19 is obtained. Meanwhile, a TCP19 overexpression transgenic plant TCP19-OX is obtained through an overexpression transgenic technology. Through sheath blight resistance identification, it is found that compared with wild rice, tcp19 is more resistant to diseases, and TCP19-OX is more susceptible to diseases. The TCP19 protein is related to the resistance of the rice to the sheath blight disease, the TCP19 knockout enhances the resistance of the rice to the sheath blight disease, the TCP19 knockout can be used for creating new germplasm resistant to the rice sheath blight disease, and the application of the TCP19 protein is proved to be of great significance to creation of germplasm resources resistant to the rice sheath blight disease and effective prevention and control of the sheath blight disease.(ZH) 本发明提供了TCP19蛋白在调控水稻抗纹枯病中的应用，涉及生物技术领域。本发明通过CRISPR/Cas9基因编辑对受体水稻中的TCP19蛋白质的编码基因进行编辑，获得TCP19敲除的转基因植株tcp19。同时通过过表达转基因技术获得TCP19过表达转基因植株TCP19‑OX。通过纹枯病抗性鉴定发现，与野生型水稻对照相比，tcp19更抗病，TCP19‑OX更感病。证实TCP19蛋白与水稻对纹枯病的抗性相关，TCP19敲除增强水稻对纹枯病的抗性，可用于创制水稻纹枯病抗性新种质，证实了本发明所述应用对水稻抗纹枯病种质资源创制和纹枯病的有效防控具有重要意义。",北京方圆嘉禾知识产权代理有限公司 11385,114989283,04.07.2023,
+CN179622310,201610405986,China,10.06.2016,106086008,09.11.2016,B,"C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/89
+					
+
+
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/89
+					
+
+
+
+
+
+
+View less classifications","C07K 14/43563
+					
+
+
+
+
+
+
+C12N 15/89
+					
+
+
+
+
+
+
+
+
+C07K 14/43563
+					
+
+
+
+
+
+
+C12N 15/89
+					
+
+
+
+
+
+
+View less classifications","INSTITUTE OF PLANT PROTECTION, CHINESE ACADEMY OF AGRICULTURAL SCIENCES中国农业科学院植物保护研究所",LYU ZHICHUANG吕志创WANG YUAN王原LIU WANXUE刘万学WAN FANGHAO万方浩,,(EN) CRISPR/cas9 (clustered regularly interspaced short palindromic repeats/associated proteins) system of bemisia tabaci MED cryptic species TRP gene and application of CRISPR/cas9 system(ZH) 烟粉虱MED隐种TRP基因的CRISPR/cas9系统及其应用,,"(EN) The invention relates to the field of genetic engineering, in particular to a CRISPR/cas9 (clustered regularly interspaced short palindromic repeats/associated proteins) system of a bemisia tabaci MED cryptic species TRP gene and an application of the CRISPR/cas9 system. By overcoming an off-target effect by optimizing a synthetic primer of a target site of sgRNA of a bemisia tabaci MED cryptic species TRP sequence, the expression of a target gene can be inhibited from a nuclear gene level, so that a durable and stable effect is achieved and a durable and stable mutant type is formed.(ZH) 本发明涉及基因工程领域，具体涉及烟粉虱MED隐种TRP基因的CRISPR/cas9系统及其应用。优化烟粉虱MED隐种TRP基因序列的sgRNA的靶标位点的合成引物克服脱靶效应，能从核基因水平抑制目的基因表达，从而达到持久稳定的效果，成持久稳定的突变型。",北京法思腾知识产权代理有限公司 11318,106086008,12.03.2019,
+CN217880413,201810051692,China,19.01.2018,108004218,08.05.2018,B,"C12N 9/12
+					
+
+
+
+
+
+
+C12N 15/54
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 9/12
+					
+
+
+
+
+
+
+C12N 15/54
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C12N 9/1205
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12Y 207/0104
+					
+
+
+
+
+
+
+
+
+C12N 9/1205
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12Y 207/0104
+					
+
+
+
+
+
+
+View less classifications",SICHUAN AGRICULTURAL UNIVERSITY四川农业大学,TU BIN涂斌HU LI胡丽LI JIALIAN李佳莲LI SHIGUI李仕贵MA BINGTIAN马炳田WANG YUPING王玉平QIN PENG钦鹏CHEN WEILAN陈薇兰ZHENG LING郑灵,,(EN) Gene OsPK3 for controlling 1000-grain weight of rice(ZH) 一种控制水稻千粒重的基因OsPK3及应用,,"(EN) The invention discloses a gene OsPK3 for controlling 1000-grain weight of rice. The nucleotide sequence of the gene is the nucleotide sequence which is shown in SEQ ID NO:2, or the nucleotide sequencewhich is shown in the SEQ ID NO:2 and can encode the same functional protein by substituting, deleting and/or adding one or more nucleotides. According to the gene OsPK3 for controlling the 1000-grain weight of the rice, a new gene OsPK3 is positioned through a map-based cloning method, and a transgenic mutant strain is formed by knocking out the gene OsPK3 by utilizing a CRISPR/Cas9 system; whenthe mutant plant is compared with a wild type, the seed grain thickness is decreased, the 1000-grain weight is remarkably reduced, and the plant height is reduced, which show that the gene is the gene for controlling the 1000-grain weight of the rice and can be used for high-yield and stable-yield breeding of the rice.(ZH) 本发明公开了一种控制水稻千粒重的基因OsPK3及应用，该基因的核苷酸序列为SEQ ID NO：2所示的核苷酸序列；或SEQ ID NO：2所示的核苷酸序列经取代、缺失和/或添加一个或多个核苷酸，且能编码相同功能蛋白质的核苷酸序列。本发明通过图位克隆的方法定位到了一个新基因OsPK3并利用CRISPR/Cas9系统对该基因OsPK3进行敲除后形成转基因突变株系，突变体植株与野生型相比，均表现出种子粒厚变小，千粒重显著降低，株高变矮，说明该基因是控制水稻千粒重的基因，可用于水稻高产、稳产育种。",成都正华专利代理事务所(普通合伙) 51229,108004218,26.05.2020,
+CN432885828,202410476285,China,19.04.2024,118222611,21.06.2024,B,"C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+View less classifications",XINYANG NORMAL UNIVERSITY信阳师范学院,ZHAO JINHUI赵金会XIN YI辛怡WANG QUANXIU汪全秀CUI WEIWEI崔薇薇WEI CHANGSU魏昶夙,,(EN) Application of rice anchoring protein OsANK3 and coding gene thereof in regulation and control of seed development(ZH) 水稻锚定蛋白OsANK3及其编码基因在调控种子发育中的应用,,"(EN) The invention discloses application of a rice anchoring protein OsANK3 and a coding gene thereof in regulation and control of seed sizes and/or cultivation of plant varieties with improved seed grain shapes, and belongs to the field of plant genetic engineering. According to the invention, a CRISPR/Cas9-OsANK3 gene knockout vector is constructed, and rice is transformed by using an agrobacterium-mediated method, so that the OsANK3 gene knockout mutant is obtained. The grain length, the grain thickness and the thousand grain weight of the OsANK3 gene knockout mutant are remarkably increased compared with those of wild seeds. Therefore, the OsANK3 gene participates in the seed size development process as a negative regulation factor, so that the OsANK3 gene can be applied to genetic breeding for improving the seed shape and thousand seed weight.(ZH) 本发明公开了一种水稻锚定蛋白OsANK3及其编码基因在调控种子大小和/或培育改良种子粒型的植物品种中的应用，属于植物基因工程领域。本发明通过构建CRISPR/Cas9‑OsANK3基因敲除载体，利用农杆菌介导法转化水稻，获得OsANK3基因敲除突变体。OsANK3基因敲除突变体较野生型种子的粒长、粒厚和千粒重都显著增加。因此，OsANK3基因作为负调控因子参与了种子大小发育过程，因而可以用于改良种子粒型和千粒重的遗传育种中。",北京清控智云知识产权代理事务所(特殊普通合伙) 11919北京清控智云知识产权代理事务所(特殊普通合伙) 11919,118222611,10.01.2025,
+,,,,,,,,,,,,,,,,,,
+CN343415213,202110987393,China,26.08.2021,113637685,12.11.2021,B,"C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8273
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8273
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+View less classifications","HUNAN AGRICULTURAL UNIVERSITY湖南农业大学INSTITUTE OF PLANT PROTECTION, HUNAN PROVINCE湖南省植物保护研究所",WANG DAN王丹LIU ZHUO刘茁LI CHENGGANG李成刚JIANG SU蒋素XIAO YINGHUI肖应辉,,(EN) Rice cold-resistant gene OsRab11C1 and application thereof(ZH) 一种水稻耐寒基因OsRab11C1及其应用,,"(EN) The invention discloses a rice cold-resistant gene OsRab11C1 and application thereof, and belongs to the technical field of gene editing. The rice cold-resistant gene OsRab11C1 is a negative regulation gene, the nucleotide sequence of the rice cold-resistant gene OsRab11C1 is a sequence shown in SEQ ID NO.1, and the amino acid sequence of the encoded protein of the rice cold-resistant gene OsRab11C1 is a sequence shown in SEQ ID NO.2; the invention relates to application of a rice cold-resistant gene OsRab11C1 in improving the cold resistance of rice. The application method comprises the following steps: S1, synthesizing gRNA according to a coding sequence of the rice cold-resistant gene OsRab11C1; S2, constructing the gRNA synthesized in the step S1 to a gene editing carrier CRISPR/cas9 (clustered regularly interspaced short palindromic repeats/cas9); and S3, transforming the vector constructed in the step S2 into Nipponbare rice through adoption of an agrobacterium transgenosis method, and obtaining cold-resistant rice, wherein the nucleotide sequence of gRNA is the sequence shown in SEQ ID NO.3, and agrobacterium adopted in the agrobacterium transgenosis method is an EHA105 strain. The rice cold-resistant gene OsRab11C1 is knocked out by using a gene editing technology (CRISPR), and the cold resistance of rice can be remarkably improved.(ZH) 本发明公开了一种水稻耐寒基因OsRab11C1及其应用，属于基因编辑技术领域。水稻耐寒基因OsRab11C1为负调控基因，其核苷酸序列为SEQ ID NO.1所示的序列，其编码蛋白的氨基酸序列为SEQ ID NO.2所示的序列；水稻耐寒基因OsRab11C1在提高水稻耐寒性能中的应用，其应用的方法如下：S1、根据水稻耐寒基因OsRab11C1编码序列合成gRNA；S2、将S1步骤合成的gRNA构建到基因编辑载体CRISPR/cas9；S3、利用农杆菌转基因方法将S2步骤构建的载体转化到日本晴水稻，得到耐寒水稻，其中gRNA的核苷酸序列为SEQ ID NO.3所示的序列，其中农杆菌转基因方法采用的农杆菌为EHA105菌株。本发明利用基因编辑技术(CRISPR)敲除水稻耐寒基因OsRab11C1，可显著提高水稻的耐寒性能。",广州市华学知识产权代理有限公司 44245,113637685,18.04.2023,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+CN352777334,202111195985,China,14.10.2021,114058618,18.02.2022,B,"C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/85
+					
+
+
+
+
+
+
+C12N 15/55
+					
+
+
+
+
+
+
+C12N 15/53
+					
+
+
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/85
+					
+
+
+
+
+
+
+C12N 15/55
+					
+
+
+
+
+
+
+C12N 15/53
+					
+
+
+
+
+
+
+View less classifications","C12N 15/1137
+					
+
+
+
+
+
+
+C12N 15/85
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/0016
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 2800/105
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 15/1137
+					
+
+
+
+
+
+
+C12N 15/85
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/0016
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 2800/105
+					
+
+
+
+
+
+
+C12Y 104/01002
+					
+
+
+
+
+
+
+View less classifications",SOUTH CHINA NORMAL UNIVERSITY华南师范大学CAS CENTER FOR EXCELLENCE IN MOLECULAR PLANT SCIENCES中国科学院分子植物科学卓越创新中心,YI MEIYAN衣玫妍YANG XU杨煦LIU ZULIAN刘祖莲HUANG YONGPING黄勇平XIANG HUI相辉,,(EN) Application of glutamate dehydrogenase as target spot in pest control(ZH) 谷氨酸脱氢酶作为靶点在防治害虫中的应用,,"(EN) The invention belongs to the technical field of biology, and discloses application of glutamate dehydrogenase as a target spot in pest control. The invention discloses the application of glutamate dehydrogenase as a target spot in pest control for the first time, GDH is knocked out through target gene screening in combination with a CRISPR/Cas9 technology, and the importance of glutamate dehydrogenase to growth and development of pests is proved. GDH gene mutants are successfully obtained in pests by utilizing a transgenic CRISPR/Cas9 technology, GDH gene mutation seriously affects normal growth and development of the pests, individuals become small, and the pests are prone to being infected with viruses in a larval stage and die, and massive death caused by GDH gene mutation in the larval stage can be used for pest control.(ZH) 本发明属于生物技术领域，公开了谷氨酸脱氢酶作为靶点在防治害虫中的应用。本发明首次公开了谷氨酸脱氢酶作为靶点在防治害虫中的应用，通过过靶标基因筛选并结合CRISPR/Cas9技术敲除GDH，证明了谷氨酸脱氢酶对害虫生长发育的重要性。本发明在害虫中利用转基因CRISPR/Cas9技术成功获得了GDH基因突变体，GDH基因突变严重影响害虫正常生长发育，个体变小，幼虫期易感染病毒而死亡：GDH基因突变导致的幼虫期大量死亡可用于害虫防治。",广州嘉权专利商标事务所有限公司 44205,114058618,16.05.2023,
+CN374857622,202210652599,China,09.06.2022,115011618,06.09.2022,B,"C12N 15/54
+					
+
+
+
+
+
+
+C12N 9/10
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/74
+					
+
+
+
+
+
+
+C12N 1/21
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 15/54
+					
+
+
+
+
+
+
+C12N 9/10
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/74
+					
+
+
+
+
+
+
+C12N 1/21
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+C12R 1/01
+					
+
+
+
+
+
+
+View less classifications","C12N 9/1007
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C12N 15/743
+					
+
+
+
+
+
+
+Y02P 60/21
+					
+
+
+
+
+
+
+
+
+C12N 9/1007
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C12N 15/743
+					
+
+
+
+
+
+
+Y02P 60/21
+					
+
+
+
+
+
+
+View less classifications",SOUTH CHINA AGRICULTURAL UNIVERSITY华南农业大学,LIU HUILI刘慧丽LIANG WEI梁玮DONG MENGGE董孟格,,(EN) Method for improving water transport efficiency of rice and/or promoting xylem growth of rice(ZH) 一种提高水稻水分运输效率和/或促进水稻木质部增长的方法,,"(EN) The invention discloses a method for improving water transport efficiency of rice and/or promoting xylem growth of rice, which is characterized in that RNA (Ribonucleic Acid) methyltransferase gene OsEVB or RNA methyltransferase OsEVB is knocked out and/or silenced by a CRISPR-Cas9 (Clustered Regularly Interspaced Short Palindromic Repeats) technology, so that the obtained transgenic rice plant has increased stem vascular bundles, increased xylem and increased woody cells. By means of the method, the rice moisture transportation capacity and/or the rice moisture transportation efficiency can be improved. The method solves the problem that people have less research on the vascular development regulation and control mechanism of monocotyledon mode plant rice at present, and provides a new method and thought for innovating efficient water transportation of rice.(ZH) 本发明公开了一种提高水稻水分运输效率和/或促进水稻木质部增长的方法，所述方法通过CRISPR‑Cas9技术敲除和/或沉默RNA甲基转移酶基因OsEVB或RNA甲基转移酶OsEVB，从而使得到的转基因水稻植株茎秆维管束增大、木质部增大、木质细胞增多。利用该方法可以提高水稻水分运输能力和/或提高水稻水分运输效率。解决了目前人们对单子叶模式植物水稻的维管发育调控机制研究较少的问题，为创新水稻高效水分运输提供新的方法和思路。",广州粤高专利商标代理有限公司 44102,115011618,02.06.2023,
+CN435098125,202410359122,China,27.03.2024,118256552,28.06.2024,B,"C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+View less classifications",HUAIYIN NORMAL UNIVERSITY淮阴师范学院,GAO QINGSONG高清松DING JIAYI丁佳怡,,(EN) Application of rice OsFWL1 gene in improving rice quality(ZH) 水稻OsFWL1基因在改良稻米品质中的应用,,"(EN) The invention discloses application of a rice OsFWL1 gene in improving rice quality, and relates to the technical field of plant genetic engineering. According to the invention, a gene knockout target site in a coding region of the rice OsFWL1 gene is designed, a gene knockout mutant is constructed by using a CRISPR/Cas9 technology, and the OsFWL1 gene in rice is knocked out. Through offspring separation and detection, a homozygous mutant without transgene insertion is obtained. The length of single-plant grains of different mutants is obviously larger than that of wild type grains, and the appearance quality is better. The contents of metal trace elements Fe and Mn in the mutant brown rice are obviously increased compared with the contrast, and the mutant brown rice has better nutritional quality. In addition, the content of heavy metal Cd in the mutant brown rice is remarkably reduced. Therefore, the method for knocking out the rice OsFWL1 gene to simultaneously improve the appearance quality and the nutritional quality of rice and reduce the content of Cd has important application value and can generate good economic benefits.(ZH) 本发明公开了水稻OsFWL1基因在改良稻米品质中的应用，涉及植物基因工程技术领域。本发明通过设计水稻OsFWL1基因编码区基因敲除靶标位点，利用CRISPR/Cas9技术构建基因敲除突变体，敲除水稻中的OsFWL1基因。通过后代分离和检测，获得了无转基因插入的纯合突变体。不同突变体单株籽粒粒长显著大于野生型，具有更好的外观品质。突变体糙米中金属微量元素Fe和Mn的含量与对照相比显著增加，具有更好的营养品质。此外，突变体糙米中重金属Cd的含量显著降低。因此，本发明提供的敲除水稻OsFWL1基因以同时改良稻米外观品质和营养品质、降低Cd含量的方法，具有重要的应用价值，能产生良好的经济效益。",南京智转慧移知识产权代理有限公司 32649,118256552,10.09.2024,
+CN395776531,202211253287.X,China,13.10.2022,115927381,07.04.2023,B,"C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+A01H 5/02
+					
+
+
+
+
+
+
+A01H 6/20
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+A01H 5/02
+					
+
+
+
+
+
+
+A01H 6/20
+					
+
+
+
+
+
+
+View less classifications","Y02A 40/146
+					
+
+
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+View less classifications",ANHUI AGRICULTURAL UNIVERSITY安徽农业大学,WANG TENGYUE王腾岳LI PEIJIN李培金LIU JIFANG刘继芳TAO ZHEN陶珍WANG CHUANHONG王传宏,,(EN) Rape RNA processing factor NCBP gene and application thereof(ZH) 一种油菜RNA加工因子NCBP基因及其应用,,"(EN) The invention discloses a rape RNA processing factor NCBP gene and application thereof, and relates to the technical field of gene engineering, the gene is located on A10 chromosome of rape, and has a nucleotide sequence shown as SEQ ID NO.1 or a nucleotide sequence complementary with the sequence shown as SEQ ID NO.1. The application of the NCBP gene in regulating and controlling the flowering phase of the plant is disclosed for the first time, a brassica napus variety Westar is subjected to genetic transformation through a CRISPR-Cas9 technology to carry out gene editing on a rape NCBP gene family, a homozygous mutant material containing target gene mutation is obtained through further screening, the mutant material shows late flowering, NCBP.A10 shows early flowering through overexpression in arabidopsis thaliana, and the NCBP gene can be used for regulating and controlling the flowering phase of the plant. The application of the NCBP gene in regulation and control of the flowering phase of the rape is proved. The invention provides a new gene resource and a new thought for culturing brassica napus with a proper growth period.(ZH) 本发明公开了一种油菜RNA加工因子NCBP基因及其应用，涉及基因工程技术领域，该基因位于油菜的A10染色体上，具有如SEQ ID NO.1所示的核苷酸序列，或具有与SEQ IDNO.1所示序列互补的核苷酸序列。本发明首次公开NCBP基因在调控植物花期中的用途，通过CRISPR‑Cas9技术遗传转化甘蓝型油菜品种Westar对油菜NCBP基因家族进行基因编辑，进一步筛选获得含有目的基因突变的纯合突变体材料，突变体材料表现出晚花，NCBP.A10在拟南芥中的过表达表现出早花，证实了NCBP基因在油菜花期调控中的用途。本发明为培养生育期适当的甘蓝型油菜提供了新的基因资源和新思路。",合肥中谷知识产权代理事务所(普通合伙) 34146,115927381,14.02.2025,
+CN356055569,202111586843,China,23.12.2021,114196679,18.03.2022,B,"C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+View less classifications",WUHAN BIOLOGICAL ENGINEERING COLLEGE武汉生物工程学院,LYU KAI吕凯LI QIN李琴LUO MENG骆梦YUAN FEIRONG袁飞荣LIAN XINGMING练兴明,,(EN) Application of copper ion transporter gene OsCOPT7 in rice breeding(ZH) 铜离子转运蛋白基因OsCOPT7在水稻选育中的应用,,"(EN) The invention discloses application of a copper ion transporter gene OsCOPT7 in rice breeding, and belongs to the field of plant genetic engineering. The amino acid sequence of the protein encoded by the OsCOPT7 gene is as shown in SEQ ID NO. 1, and the CDS sequence is as shown in SEQ ID NO. 2. By constructing OsCOPT7 gene overexpression (OE) and knockout (CRISPR) transgenic materials, it is found that the yield of a single plant of an OsCOPT7 overexpression family is decreased, the yield of an OsCOPT7 knockout family is remarkably increased, and the rice yield is increased by conducting deletion mutation on a coding region of the gene. Therefore, the OsCOPT7 gene can be used in rice breeding to improve the rice yield, and has a good application prospect in genetic engineering breeding.(ZH) 本发明公开了铜离子转运蛋白基因OsCOPT7在水稻选育中的应用，属于植物基因工程领域。OsCOPT7基因编码蛋白质的氨基酸序列如SEQ ID NO.1所示，CDS序列如SEQ ID NO.2所示。本发明通过构建OsCOPT7基因超表达(OE)和敲除(CRISPR)转基因材料，发现OsCOPT7超表达家系单株产量下降，而OsCOPT7敲除家系产量显著提高，通过将该基因的编码区进行缺失突变提高了水稻产量。因此，OsCOPT7基因可用于水稻选育中以提高水稻产量，其在基因工程育种中有良好的应用前景。",武汉科皓知识产权代理事务所(特殊普通合伙) 42222,114196679,05.05.2023,
+CN399619894,202210944170.X,China,05.08.2022,116200411,02.06.2023,B,"C12N 15/55
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 5/02
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 15/55
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 5/02
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+View less classifications","C12N 9/16
+					
+
+
+
+
+
+
+C12N 15/8273
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 15/8287
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C12Y 301/03016
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/16
+					
+
+
+
+
+
+
+C12N 15/8273
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 15/8287
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C12Y 301/03016
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+View less classifications",LANZHOU UNIVERSITY兰州大学,HOU SUIWEN侯岁稳QIN QIANQIAN秦倩倩SAVIRA JADUN萨维拉贾敦SHI WEIQIANG石伟强YAN LONGFENG闫龙凤CHEN LIANG陈亮,,(EN) Rice salt-tolerant genes OsINH2 and OsIN3 and application thereof(ZH) 水稻耐盐基因OsINH2和OsINH3及其应用,,"(EN) The invention provides rice salt-tolerant genes OsINH2 and OsIN3 and application of the rice salt-tolerant genes OsINH2 and OsIN3 When the stress-resistant gene is excavated, the rice mutant after the CRISPR-Cas knockout of the two genes is sensitive to salt, and the over-expressed strain not only has high survival rate under the stress of salt, but also is not obviously inhibited in growth. Based on the phenotypic results, it is believed that research on the OsINH2 and OsIN3 genes plays a positive role in improving salt resistance and stress resistance of rice and expanding a stress resistance gene pool. The further research finds that the OsINH2 and OsIN3 genes also have the functions of regulating the plant fertility, regulating the plant pollen viability and removing reactive oxygen species (ROS).(ZH) 本发明提供了水稻耐盐基因OsINH2和OsINH3及其应用。在挖掘抗逆基因时，发现CRISPR‑Cas敲除这两个基因后的水稻突变体对盐敏感，而超表达的株系在盐胁迫下不仅存活高，且生长也未受到明显抑制。基于这些表型结果，我们认为通过对OsINH2和OsINH3基因研究对与改良水稻抗盐抗逆、扩充抗逆基因库有积极作用。进一步研究发现OsINH2和OsINH3基因在调节植物育性、调节植物花粉活力、清除活性氧(ROS)中也具有功能。",厦门原创专利事务所(普通合伙) 35101,116200411,13.08.2024,
+CN205780970,201710251009,China,18.04.2017,107298701,27.10.2017,B,"C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+C12N 15/8253
+					
+
+
+
+
+
+
+C12N 15/8254
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+C12N 15/8253
+					
+
+
+
+
+
+
+C12N 15/8254
+					
+
+
+
+
+
+
+View less classifications",SHANGHAI UNIVERSITY上海大学,SONG RENTAO宋任涛LI CHAOBIN李朝斌QI WEIWEI祁巍巍ZHU CHENGUANG朱晨光,,(EN) Zea mays transcription factor ZmbZIP22 and application thereof(ZH) 玉米转录因子ZmbZIP22及其应用,,"(EN) The invention relates to an application of a Zea mays grain transcription factor in the aspect of regulation and control of alcohal-soluble proteins. The factor comprises a base sequence shown in SEQ ID NO: 1. The protein ZmbZIP22 encoded by the sequence can be directly bonded to a 27kDa gamma-gliadin promoter and activate the 27kDa gamma-gliadin promoter. Gene-deficient mutant plants are obtained through carrying out Zea mays immature-embryo conversion by taking a gene fragment, shown in SEQ ID NO: 2, of ZmbZIP22 as a guide RNA by using a CRISPR-Cas9 technology. Compared with wild type grains, transgenic mutants have Zea mays grains with irregular and relative-thin protein body shells, the content of alcohal-soluble proteins in mature grains is remarkably lowered, the content of essential amino acids such as lysine, which are deficient to the conventional Zea mays, in the mature grains is remarkably increased, and thus, the nutritional quality of Zea mays is improved.(ZH) 本发明涉及一个玉米籽粒转录因子在调控醇溶蛋白方面的应用。该基因为SEQ ID NO：1所示的碱基序列。该序列编码的蛋白ZmbZIP22可直接结合并激活27kDa γ‑醇溶蛋白启动子。利用CRISPR‑Cas9技术将ZmbZIP22的基因片段SEQ ID NO：2作为guide RNA进行转化玉米幼胚，并获得基因缺失突变体的植株。相对野生型籽粒而言，转基因突变体玉米籽粒出现不规则且较薄的蛋白体外壳，成熟籽粒的醇溶蛋白含量显著下降，常规玉米缺乏的赖氨酸等必需氨基酸含量显著上升，从而提高了玉米的营养品质。",上海上大专利事务所(普通合伙) 31205,107298701,30.10.2020,
+CN345600902,202110764143,China,06.07.2021,113736792,03.12.2021,B,"C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/54
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/54
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8269
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8269
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+View less classifications","NORTHEAST INSTITUTE OF GEOGRAPHY AND AGROECOLOGY, CHINESE ACADEMY OF SCIENCES中国科学院东北地理与农业生态研究所",YU HUI于慧FENG XIANZHONG冯献忠YANG SUXIN杨素欣WANG QIUSHI王秋实ZHANG ZHIRUI张芷睿YANG XINJING杨欣晶,,(EN) Mutant of soybean GmTic110 gene and application of mutant(ZH) 大豆GmTic110基因的突变体及其应用,,"(EN) The invention relates to the technical field of gene engineering, in particular to a mutant of a soybean GmTic110 gene and application of the mutant. Researches show that mutation of the GmTic110 gene of a soybean-encoded chloroplast membrane protein leads to reduction of chlorophyll synthesis of the mutant and abnormal chloroplast development, and photosynthesis of plants is affected. A CRISPR/Cas9 system is used for carrying out GmTic110 gene knockout on a wild type, and an obtained stable knockout transgenic line shows a yellow leaf color and is consistent with the phenotype of the mutant. Gene resources are provided for soybean chloroplast engineering research, soybean chloroplast development can be directionally modified through the GmTIC110 protein, the photosynthesis of soybeans is improved, germplasm resources are provided for high-photosynthetic-efficiency soybean variety cultivation, and wide application prospects are achieved.(ZH) 本发明涉及基因工程技术领域，尤其涉及大豆GmTic110基因的突变体及其应用。本发明研究表明，大豆编码叶绿体膜蛋白的GmTic110基因突变，导致突变体叶绿素合成下降，叶绿体发育异常，影响了植株的光合作用。利用CRISPR/Cas9系统对野生型进行GmTic110基因的敲除，获得稳定的敲除转基因株系表现叶色黄化，与突变体表型一致。本发明为大豆叶绿体工程研究提供基因资源，可通过GmTIC110蛋白定向改造大豆叶绿体发育，提高大豆的光合作用，为高光效大豆品种培育提供种质资源，具有广阔的应用前景。",北京集佳知识产权代理有限公司 11227,113736792,25.07.2023,
+CN345615617,202010493438,China,01.06.2020,113755520,07.12.2021,B,"C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/66
+					
+
+
+
+
+
+
+C12N 1/21
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/00
+					
+
+
+
+
+
+
+C12R 1/01
+					
+
+
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/66
+					
+
+
+
+
+
+
+C12N 1/21
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/00
+					
+
+
+
+
+
+
+C12R 1/01
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/66
+					
+
+
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/66
+					
+
+
+
+
+
+
+View less classifications","INSTITUTE OF FRUIT TREE RESEARCH, GUANGDONG ACADEMY OF AGRICULTURAL SCIENCES广东省农业科学院果树研究所",YANG QIAOSONG杨乔松SHAO XIUHONG邵秀红YI GANJUN易干军HU CHUNHUA胡春华,,(EN) Semi-dwarf banana gene editing vector as well as construction method and application thereof(ZH) 半矮化香蕉基因编辑载体及其构建方法和应用,,"(EN) The invention provides a banana GA20ox2 gene editing vector based on CRISPR/Cas9 as well as a construction method and application thereof. The method which comprises designing a gene editing target site and a primer thereof according to a sequence of a banana gene, and constructing a reasonable sgRNA expression cassette in combination with a specific amplification program when the banana GA20ox2 gene editing vector is constructed. The invention provides an effective and stable editing method for directionally mutating the banana GA20ox2 gene, so that the expression of the banana GA20ox2 gene is deleted or weakened. The height of banana plants is reduced, the lodging resistance of bananas can be improved, and the influence of severe weather such as typhoon on a banana plantation is relieved.(ZH) 本发明提供了一种基于CRISPR/Cas9的香蕉GA20ox2基因编辑载体及其构建方法和应用，针对香蕉基因的序列，设计基因编辑靶位点及其引物，以及在构建香蕉GA20ox2基因编辑载体时结合特定的扩增程序，构建得到合理的sgRNA表达框，提供了一种有效且稳定的定向突变香蕉GA20ox2基因的编辑方法，从而使得香蕉GA20ox2基因的表达缺失或减弱。降低了香蕉植株的高度，可以提高香蕉抗倒伏的能力，减轻台风等恶劣天气对香蕉种植园的影响。",广州海藻专利代理事务所(普通合伙) 44386,113755520,23.06.2023,
+,,,,,,,,,,,,,,,,,,
+CN205487064,201710467169,China,20.06.2017,107266541,20.10.2017,B,"C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 15/8245
+					
+
+
+
+
+
+
+C12N 15/8247
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 15/8213
+					
+
+
+
+
+
+
+C12N 15/8245
+					
+
+
+
+
+
+
+C12N 15/8247
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+View less classifications",SHANGHAI UNIVERSITY上海大学,SONG RENTAO宋任涛FENG FAN冯帆QI WEIWEI祁巍巍ZHU CHENGUANG朱晨光,,(EN) Corn transcription factor ZmbHLH167 and application thereof(ZH) 玉米转录因子ZmbHLH167及其应用,,"(EN) The invention relates to a corn transcription factor ZmbHLH167 and an application of the corn transcription factor ZmbHLH167. A base sequence of the gene is shown as SEQ ID NO (sequence identifier number): 1. A corn immature embryo is transformed by taking a gene segment SEQ ID NO: 2 of the sequential coding protein ZmbHLH167 as guide RNA (ribonucleic acid) by use of a CRISPR (clustered regularly interspaced short palindromic repeats)-Cas9 technology, and a plant of a gene deletion mutant is obtained. Compared with a wild seed, a corn seed of the genetically modified mutant is smaller significantly, but a germination rate is not influenced. Biochemical analysis shows that a starch content of the corn seed of the genetically modified mutant is decreased obviously, a content of protein and total oil and fat is significantly increased, and a genetic resource is provided for creating high quality corn.(ZH) 本发明涉及玉米转录因子ZmbHLH167及其应用。该基因为SEQ ID NO：1所示的碱基序列。该序列编码的蛋白ZmbHLH167通过利用CRISPR‑Cas9技术将ZmbHLH167的基因片段SEQ ID NO：2作为guide RNA进行转化玉米幼胚，并获得基因缺失突变体的植株。相对野生型籽粒而言，转基因突变体玉米籽粒显著变小但发芽率并未受到影响。生化分析表明，转基因突变体玉米籽粒的淀粉含量明显下降，而蛋白和总油脂含量显著上升，为创造高品质玉米提供遗传资源。",上海上大专利事务所(普通合伙) 31205,107266541,04.06.2021,
+CN429428982,202410410660,China,08.04.2024,118006673,10.05.2024,B,"C12N 15/82
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C12N 15/8247
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8253
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+
+
+C12N 15/8247
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8253
+					
+
+
+
+
+
+
+C12N 15/8243
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+View less classifications",SANYA NANFAN RESEARCH INSTITUTE OF HAINAN UNIVERSITY海南大学三亚南繁研究院SANYA RESEARCH INSTITUTE OF HAINAN UNIVERSITY海南大学三亚研究院,FANG CHUANYING房传营CHENG YAN程妍LI KANG李康YU JINGYAO于晶瑶,,(EN) Application of OsOPCL1 gene in regulating and controlling nutrient content of polished rice(ZH) OsOPCL1基因在调控水稻精米营养物质含量的应用,,"(EN) The invention relates to the technical field of gene engineering, in particular to application of an OsOPCL1 gene in regulating and controlling the nutrient content of polished rice. The sequence of a CDS region of the OsOPCL1 gene is as shown in SEQ ID NO. 1 in a sequence table; the amino acid sequence of the coded protein is shown as SEQ ID NO. 2 in the sequence table. According to the knockout, the OsOPCL1 gene is knocked out in a targeted mode through a CRISPR/Cas9 method, and a knockout mutant plant is obtained. The method has the advantages that accumulation of lipids, amino acids and vitamins in polished rice is improved by constructing the knockout vector and the osopcl1 knockout mutant, and an important resource is provided for genetic improvement of rice lipid nutrition.(ZH) 本发明涉及基因工程技术领域，尤其涉及一种OsOPCL1基因在调控水稻精米营养物质含量的应用。OsOPCL1基因的CDS区序列如序列表SEQIDNO.1所示；编码的蛋白质的氨基酸序列如序列表SEQIDNO.2所示。敲除是通过CRISPR/Cas9方法靶向敲除所述OsOPCL1基因，获得敲除突变体植株。优点在于：通过构建敲除载体、构建osopcl1敲除突变体提高精米中脂质、氨基酸及维生素积累，为水稻脂质营养遗传改良提供重要资源。",长春中科长光知识产权代理事务所(普通合伙) 22218,118006673,16.07.2024,
+CN437950500,202410975259,China,19.07.2024,118497225,16.08.2024,B,"C12N 15/29
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8251
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+View less classifications",SANYA NANFAN RESEARCH INSTITUTE OF HAINAN UNIVERSITY海南大学三亚南繁研究院SANYA RESEARCH INSTITUTE OF HAINAN UNIVERSITY海南大学三亚研究院,FANG CHUANYING房传营CHENG YAN程妍LI KANG李康,,(EN) Application of knockout OsJMJ703 gene in improvement of amino acid content of rice(ZH) 敲除OsJMJ703基因在提高稻米氨基酸含量的应用,,"(EN) The invention relates to the technical field of gene engineering, in particular to application of a knockout OsJMJ703 gene in increasing the amino acid content of rice. The sequence of a CDS region of the OsJMJ703 gene is as shown in SEQ ID NO. 1 in a sequence table; the amino acid sequence of the coded protein is shown as SEQ ID NO. 2 in the sequence table. According to the knockout, the OsJMJ703 gene is knocked out in a targeted mode through a CRISPR/Cas9 method, and a knockout mutant plant is obtained. The method has the advantages that accumulation of amino acid in rice is improved by constructing the knockout vector and the osjmj703 knockout mutant, and an important resource is provided for genetic improvement of rice lipid nutrition.(ZH) 本发明涉及基因工程技术领域，尤其涉及一种敲除OsJMJ703基因在提高稻米氨基酸含量的应用。OsJMJ703基因的CDS区序列如序列表SEQIDNO.1所示；编码的蛋白质的氨基酸序列如序列表SEQIDNO.2所示。敲除是通过CRISPR/Cas9方法靶向敲除所述OsJMJ703基因，获得敲除突变体植株。优点在于：通过构建敲除载体、构建osjmj703敲除突变体提高稻米中氨基酸的积累，为水稻脂质营养遗传改良提供重要资源。",长春中科长光知识产权代理事务所(普通合伙) 22218,118497225,29.10.2024,
+CN437354098,202410705798,China,03.06.2024,118452316,09.08.2024,B,"C12N 9/00
+					
+
+
+
+
+
+
+A23K 10/30
+					
+
+
+
+
+
+
+A23K 10/37
+					
+
+
+
+
+
+
+A23K 10/22
+					
+
+
+
+
+
+
+A23K 10/26
+					
+
+
+
+
+
+
+A23K 10/18
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/00
+					
+
+
+
+
+
+
+A23K 10/30
+					
+
+
+
+
+
+
+A23K 10/37
+					
+
+
+
+
+
+
+A23K 10/22
+					
+
+
+
+
+
+
+A23K 10/26
+					
+
+
+
+
+
+
+A23K 10/18
+					
+
+
+
+
+
+
+A23K 20/22
+					
+
+
+
+
+
+
+A23K 40/10
+					
+
+
+
+
+
+
+A23K 50/75
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+View less classifications","A23K 10/30
+					
+
+
+
+
+
+
+A23K 10/37
+					
+
+
+
+
+
+
+A23K 10/22
+					
+
+
+
+
+
+
+A23K 10/26
+					
+
+
+
+
+
+
+A23K 10/18
+					
+
+
+
+
+
+
+A23K 20/22
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+A23K 10/30
+					
+
+
+
+
+
+
+A23K 10/37
+					
+
+
+
+
+
+
+A23K 10/22
+					
+
+
+
+
+
+
+A23K 10/26
+					
+
+
+
+
+
+
+A23K 10/18
+					
+
+
+
+
+
+
+A23K 20/22
+					
+
+
+
+
+
+
+A23K 40/10
+					
+
+
+
+
+
+
+A23K 50/75
+					
+
+
+
+
+
+
+C12N 9/93
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12Y 603/01002
+					
+
+
+
+
+
+
+Y02P 60/87
+					
+
+
+
+
+
+
+View less classifications","SHANDONG JIURUI AGRICULTURAL GROUP CO., LTD.山东玖瑞农业集团有限公司",LI XIN李鑫SUN ZUOWEI孙作为LIU SHAOCONG刘绍聪MA NING马宁SUN MEIGE孙美鸽,,(EN) Application of high-protein alfalfa as soybean meal substitute in feed(ZH) 一种高蛋白苜蓿作为豆粕替代物在饲料中的应用,,"(EN) The invention provides application of high-protein alfalfa as a soybean meal substitute in feed, and belongs to the technical field of feed. The alfalfa cytoplasm glutamine synthetase gene is subjected to site-directed mutagenesis by combining an alfalfa tissue culture technology and a CRISPR/Cas9 gene editing technology, and an amino acid site mutated plant is screened. The content of crude protein in the overground part hay of the alfalfa mutant strain is as high as 35.62% and is increased by 65.75% compared with that of an unmutant strain. When test chickens are fed with the chicken feed prepared by crushing the alfalfa mutant strain hay to replace soybean meal as a feed nitrogen source, the feed conversion ratio is close to that of the feed taking soybean meal as the nitrogen source, and the feed conversion ratio is reduced by 23.05% compared with that of the feed prepared from the alfalfa non-mutant strain. The feed prepared from the high-protein alfalfa as the soybean meal substitute can replace soybean meal in the feed, so that the feed cost is effectively reduced, and the breeding benefit is improved.(ZH) 本发明提供了一种高蛋白苜蓿作为豆粕替代物在饲料中的应用，属于饲料技术领域。本发明通过紫花苜蓿组织培养技术和CRISPR/Cas9基因编辑技术相结合，对紫花苜蓿胞质谷氨酰胺合成酶基因进行定点突变，筛选到氨基酸位点突变的植株。紫花苜蓿突变株地上部分干草中粗蛋白的含量高达35.62％，比未突变株提高了65.75％。将紫花苜蓿突变株干草粉碎代替豆粕作为饲料氮源制备的鸡饲料饲喂试验鸡，料肉比接近豆粕作为氮源的饲料，比紫花苜蓿未突变株制备饲料的料肉比降低了23.05％。高蛋白苜蓿作为豆粕替代物制备饲料能实现饲料中豆粕替代，有效降低饲料成本，提高养殖效益。",济南智圆行方专利代理事务所(普通合伙企业) 37231,118452316,25.10.2024,
+CN347714505,202111139974,China,27.09.2021,113862283,31.12.2021,B,"C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/55
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/84
+					
+
+
+
+
+
+
+C12N 15/55
+					
+
+
+
+
+
+
+A01H 5/10
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8261
+					
+
+
+
+
+
+
+C12N 15/8205
+					
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+View less classifications",HUAIYIN NORMAL UNIVERSITY淮阴师范学院,GAO QINGSONG高清松ZHAO XIANGXIANG赵祥祥ZHOU HAIYING周海英LI WEI李伟ZHANG WENXIA张雯霞,,(EN) Application of TGS1 gene in regulation and control of size and yield of Oryza sativa L. grain(ZH) TGS1基因在调控水稻籽粒大小和产量中的应用,,"(EN) The invention discloses application of a TGS1 gene in regulation and control of the size and the yield of Oryza sativa L. grain, and belongs to the technical field of molecular biology and gene engineering. A gene TGS1 coding region knockout target site is designed, a gene knockout mutant is constructed by using a CRISPR/Cas9 technology, and the TGS1 gene in Oryza sativa L. is knocked out. Through offspring separation and detection, a homozygous mutant without transgene insertion is obtained. The grain length, the grain width, the grain thickness and the yield of a single plant of different mutant grains are obviously increased by being compared with those of a control group. In addition, the length-width ratio of the mutant grain is obviously greater than that of a control group, so that the mutant grain has better appearance quality. Therefore, the application of the TGS1 gene provided by the invention in the regulation and the control of the size and the yield of the Oryza sativa L. grain has an important application value, and a good economic benefit can be generated.(ZH) 本发明公开了TGS1基因在调控水稻籽粒大小和产量中的应用，属于分子生物学及基因工程技术领域。本发明通过设计基因TGS1编码区敲除靶标位点，利用CRISPR/Cas9技术构建基因敲除突变体，敲除水稻中的TGS1基因。通过后代分离和检测，获得了无转基因插入的纯合突变体。不同突变体籽粒的粒长、粒宽、粒厚和单株产量与对照相比均显著增加。此外，突变体籽粒的长宽比显著大于对照，因而具有更好的外观品质。因此，本发明提供的TGS1基因在调控水稻籽粒大小和产量中的应用，具有重要的应用价值，能产生良好的经济效益。",南京申云知识产权代理事务所(普通合伙) 32274,113862283,15.03.2022,
+CN178717922,201610362599,China,27.05.2016,106011167,12.10.2016,B,"C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+View less classifications",SHANGHAI JIAO TONG UNIVERSITY上海交通大学,LIANG WANQI梁婉琪ZHANG DABING张大兵XU DAWEI徐大伟YUAN ZHENG袁政CHEN MINGJIAO陈明姣LUO ZHIJING罗治靖,,(EN) Application of male sterility gene OsDPW2 and rice sterility recovery method(ZH) 雄性不育基因OsDPW2的应用及水稻育性恢复的方法,,"(EN) The invention discloses application of male sterility gene OsDPW2 and a rice sterility recovery method. OsDPW2 gene is knocked out, changed or inhibited by using the conventional genetic engineering method or on the basis of a CRISPR/Cas9 system, and the expression level of the OsDPW2 gene is reduced in japonica rice background wild type rice, so that a rice male sterility line is obtained. The invention further relates to the rice sterility recovery method, the OsDPW2 gene is amplified by primers, a mutant plant is transformed by a genetic transformation means, and a mutant can be recovered to be in wild phenotype. In a rice nutritional growth period of the rice male sterility line prepared by the invention, abnormal phenotypes do not exist; but in an anther development process of a reproductive growth period, abnormal phenotypes exist. If the male sterility gene OsDPW2 is used in cross breeding, operation of female parent emasculation can be avoided, production efficiency is greatly improved, labor cost is reduced, and the male sterility gene OsDPW2 has important application on agricultural production.(ZH) 本发明公开了一种雄性不育基因OsDPW2的应用及水稻育性恢复的方法；采用常规基因工程方法或基于CRISPR/Cas9系统，敲除、改变或抑制OsDPW2基因，在粳稻背景野生型水稻中使得OsDPW2基因表达水降低，进而获得水稻雄性不育系。本发明还涉及一种水稻育性恢复的方法，通过引物扩增OsDPW2基因，使用遗传转化的手段转化突变体植株，能够使突变体恢复到野生型表型。本发明制备的水稻雄性不育株系在水稻营养生长时期无异常表型出现，但在生殖生长时期的花药发育过程中出现异常。如果应用于杂交育种中，可以免除母本去雄的工作，大大提高生产效率，降低人工成本，在农业生产上具有重要的应用。",上海汉声知识产权代理有限公司 31236上海汉声知识产权代理有限公司 31236,106011167,01.11.2019,
+CN366177809,202110456863.X,China,25.04.2021,114621966,14.06.2022,B,"C12N 15/54
+					
+
+
+
+
+
+
+C12N 9/10
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12Q 1/6869
+					
+
+
+
+
+
+
+A01H 4/00
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 15/54
+					
+
+
+
+
+
+
+C12N 9/10
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12Q 1/6869
+					
+
+
+
+
+
+
+A01H 4/00
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/46
+					
+
+
+
+
+
+
+View less classifications","C12N 9/1007
+					
+
+
+
+
+
+
+C12N 15/8283
+					
+
+
+
+
+
+
+C12Q 1/6869
+					
+
+
+
+
+
+
+A01H 4/005
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+
+
+C12N 9/1007
+					
+
+
+
+
+
+
+C12N 15/8283
+					
+
+
+
+
+
+
+C12Q 1/6869
+					
+
+
+
+
+
+
+A01H 4/005
+					
+
+
+
+
+
+
+Y02A 40/146
+					
+
+
+
+
+
+
+View less classifications",NINGBO UNIVERSITY宁波大学,SUN ZONGTAO孙宗涛XIE KAILI谢凯丽ZHANG HEHONG张合红WEI ZHONGYAN魏中艳LI YANJUN李雁军CHEN JIANPING陈剑平,,(EN) Application of jasmonic acid methyltransferase coding gene OsJMTL1 in resisting rice black-streaked dwarf virus(ZH) 一种茉莉酸甲基转移酶编码基因OsJMTL1在抗水稻黑条矮缩病毒中的应用,,"(EN) The invention discloses jasmonic acid methyltransferase OsJMTL1 in rice and application thereof, after the OsJMTL1 gene is knocked out to transform rice by using a plant CRISPR/cas9 knockout technology, a homozygous mutant strain is obtained by screening, and is artificially inoculated with RBSDV, and it is found that the disease symptom of the OsJMTL1 mutant strain is lighter than that of wild rice.(ZH) 本发明公开了一种水稻中茉莉酸甲基转移酶OsJMTL1及其应用，本发明利用植物CRISPR/cas9敲除技术将OsJMTL1基因敲除转化水稻后，筛选获得纯合突变体株系，并对其进行人工接种RBSDV，发现OsJMTL1突变体株系发病症状与野生型水稻相比症状较轻。",北京市诚辉律师事务所 11430北京市诚辉律师事务所 11430,114621966,07.07.2023,
+CN440329601,202411155403,China,22.08.2024,118667843,20.09.2024,B,"C12N 15/53
+					
+
+
+
+
+
+
+C12N 9/02
+					
+
+
+
+
+
+
+C12N 15/89
+					
+
+
+
+
+
+
+A01N 57/16
+					
+
+
+
+
+
+
+A01P 15/00
+					
+
+
+
+
+
+
+
+
+C12N 15/53
+					
+
+
+
+
+
+
+C12N 9/02
+					
+
+
+
+
+
+
+C12N 15/89
+					
+
+
+
+
+
+
+A01N 57/16
+					
+
+
+
+
+
+
+A01P 15/00
+					
+
+
+
+
+
+
+View less classifications","C12N 9/0061
+					
+
+
+
+
+
+
+C12Y 110/03002
+					
+
+
+
+
+
+
+C12N 15/89
+					
+
+
+
+
+
+
+A01N 57/16
+					
+
+
+
+
+
+
+A01P 15/00
+					
+
+
+
+
+
+
+
+
+C12N 9/0061
+					
+
+
+
+
+
+
+C12Y 110/03002
+					
+
+
+
+
+
+
+C12N 15/89
+					
+
+
+
+
+
+
+A01N 57/16
+					
+
+
+
+
+
+
+A01P 15/00
+					
+
+
+
+
+
+
+View less classifications","INSTITUTE OF PLANT PROTECTION, CHINESE ACADEMY OF AGRICULTURAL SCIENCES中国农业科学院植物保护研究所",LYU ZHICHUANG吕志创BI SIYAN毕思言LIU WANXUE刘万学ZHANG YIBO张毅波GUO JIANYANG郭建洋HUANG CONG黄聪YANG NIANWAN杨念婉WAN FANGHAO万方浩,,(EN) Laccase Laccase-2 gene of tomato leaf miner and application of laccase Laccase-2 gene(ZH) 番茄潜叶蛾漆酶Laccase-2基因及其应用,,"(EN) The invention relates to the technical field of agricultural biology, in particular to a tomato leaf miner laccase Laccase-2 gene and application thereof, and the gene encodes protein with an amino acid sequence as shown in SEQ ID NO: 2. On the basis of a CRISPR/Cas technology, the effect of the Laccas-2 gene in the egg development of the tomato leaf miner is defined, and a potential target gene is provided for RNAi prevention and control of the tomato leaf miner.(ZH) 本发明涉及农业生物技术领域，具体涉及番茄潜叶蛾漆酶Laccase‑2基因及其应用，所述基因编码氨基酸序列如SEQ ID NO:2所示的蛋白质。本发明基于CRISPR/Cas技术，明确了Laccase‑2基因在番茄潜叶蛾卵发育中的作用，为RNAi防控番茄潜叶蛾提供了一个潜在靶标基因。",北京法信智言知识产权代理事务所(特殊普通合伙) 11737,118667843,26.11.2024,
+CN283344535,201911103126,China,12.11.2019,110734481,31.01.2020,B,"C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/29
+					
+
+
+
+
+
+
+C12N 15/113
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+A01H 5/00
+					
+
+
+
+
+
+
+A01H 6/82
+					
+
+
+
+
+
+
+View less classifications","C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8282
+					
+
+
+
+
+
+
+
+
+C07K 14/415
+					
+
+
+
+
+
+
+C12N 15/8218
+					
+
+
+
+
+
+
+C12N 15/8282
+					
+
+
+
+
+
+
+View less classifications",CHINA AGRICULTURAL UNIVERSITY中国农业大学,ZHANG NA张娜LIU LUN刘伦XU JIAYI许佳怡GUO YANGDONG郭仰东ZHENG HE郑禾ZHANG JIAOJIAO张姣姣GUO LUQIN郭禄芹HE QING贺青,,(EN) Application of tomato SlMIP protein and coding gene of tomato SlMIP protein in regulating plant gray mold resistance(ZH) 番茄SlMIP蛋白及其编码基因在调控植物灰霉病抗性中的应用,,"(EN) The invention relates to the field of biotechnology, in particular to application of tomato SLMIP protein and a coding gene of the tomato SlMIP protein in regulating plant gray mold resistance. It isfound that tomato SLMIP gene can negatively regulate plant gray mold resistance, and by reducing the expression amount of the SLMIP gene, the plant gray mold resistance can be effectively improved. The discovery of the gray mold resistance regulation function of the SlMIP gene provides valuable genetic resources and new methods for breeding new plant varieties with high resistance to gray mold. ACRISPR-Cas9 genome fixed point editing system is used for mutating the tomato SMIIP gene to create a tomato strain resistant to gray mold, and the tomato strain has a significantly improved resistanceto gray mold and has important application value.(ZH) 本发明涉及生物技术领域，具体涉及番茄SlMIP蛋白及其编码基因在调控植物灰霉病抗性中的应用。本发明发现番茄SlMIP基因能够负调控植物灰霉病抗性，通过降低SlMIP基因的表达量，能够有效提高植物灰霉病抗性。SlMIP基因的灰霉病抗性调控功能的发现为培育高抗灰霉病的植物新品种提供了宝贵的基因资源和新的方法。本发明利用CRISPR‑Cas9基因组定点编辑系统突变番茄SlMIP基因，创制了抗灰霉病番茄株系，该番茄株系的抗灰霉病能力显著提高，具有重要的应用价值。",北京路浩知识产权代理有限公司 11002,110734481,19.02.2021,
+,,,,,,,,,,,,,,,,,,
+US442374561,17808128,United States of America,22.06.2022,12139732,12.11.2024,B1,"C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+View less classifications","C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12Y 305/04002
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+View more classifications
+							
+
+
+
+
+
+
+C12N 9/22
+					
+
+
+
+
+
+
+C12N 9/78
+					
+
+
+
+
+
+
+C12N 15/11
+					
+
+
+
+
+
+
+C12N 15/82
+					
+
+
+
+
+
+
+C12Y 305/04002
+					
+
+
+
+
+
+
+C12N 2310/20
+					
+
+
+
+
+
+
+C12N 2800/80
+					
+
+
+
+
+
+
+View less classifications","PIONEER HI-BRED INTERNATIONAL, INC.PIONEER HI-BRED INTERNATIONAL, INC",Zhenglin HouSandeep KumarJoshua K Young,,(EN) Engineered deaminases,,"(EN) 
+Novel engineered non-natural deaminases are provided. Methods and compositions are provided for modifying the genome of a cell, including a plant cell. Genome modification through guided CRISPR polypeptides and multiple deaminases are provided. Engineered non-natural novel deaminases, including adenosine deaminases are provided. These novel deaminases have improved activity in cells including plant cells.",,12139732,12.11.2024,

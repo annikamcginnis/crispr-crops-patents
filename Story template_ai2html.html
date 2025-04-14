@@ -1,0 +1,1996 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Story template</title>
+
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-rendering: optimizeLegibility;
+        }
+
+        .content {
+            max-width: 640px;
+            margin: auto;
+        }
+
+        .header {
+            padding: 3em 0;
+        }
+
+        a {
+            color: #f05349;
+        }
+
+        .footer {
+            background: #f4f4f4;
+            text-align: center;
+            font-size: 0.8em;
+            margin-top: 4em;
+            padding: 4em 0;
+        }
+
+        figure {
+            margin: 0;
+            padding-bottom: 1.2em;
+        }
+
+        figcaption {
+            font-size: 0.8em;
+            text-align: center;
+            margin-top: 0.5em;
+            color: #666;
+        }
+
+        h1 {
+            font-family: 'Lora', Georgia, serif;
+            font-weight: bold;
+            font-size: 3em;
+            line-height: 1.1;
+        }
+
+        .subhead {
+            font-family: 'Lora', Georgia, serif;
+        }
+
+        iframe,
+        img,
+        video {
+            max-width: 100%;
+        }
+
+        p {
+            line-height: 1.6;
+            margin: 0;
+            padding-bottom: 1.2em;
+        }
+
+        .full-width figure {
+            text-align: center;
+        }
+
+        ul {
+            margin: 0;
+            padding-bottom: 1em;
+            line-height: 1.6;
+        }
+
+        iframe {
+            padding-bottom: 1.2em;
+        }
+
+        code {
+            font-family: 'Courier New', monospace;
+            background: #fff880;
+        }
+
+
+        .ai2html-graphic {
+            display: none;
+        }
+
+        .ai2html-graphic.active {
+            display: block;
+        }
+
+        .scrolly-overlay {
+            width: 100%;
+            max-width: 640px;
+            margin: auto;
+        }
+
+        .step {
+            margin: 0 auto 50vh;
+            padding: 1em;
+            background: rgba(255, 255, 255, 0.9);
+            border-left: 4px solid #f05349;
+        }
+
+        /* margin on mobile */
+        @media (max-width: 640px) {
+            body {
+                font-size: 18px;
+            }
+
+            .content {
+                padding-left: 0.5em;
+                padding-right: 0.5em;
+            }
+        }
+    </style>
+    <link href="scrolly-styles.css" rel="stylesheet">
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.2.0/scrollama.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
+</head>
+
+<body>
+    <div class="content">
+        <div class="header">
+            <h1>This is a scrollytelling template for ai2html</h1>
+            <p class="subhead">Here is the subhead or additional content you want to add in</p>
+        </div>
+        <div class="byline">
+            <p>By <a href="https://jonathansoma.com">Jonathan Soma</a></p>
+        </div>
+        <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio
+            cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor
+            repellendus.</p>
+        <p>This has several differences with the other scrollytelling templates:</p>
+        <ul>
+            <li>There are some lines in <code>scrolly-styles.css</code> for <code>.sticky-thing</code> to make sure the
+                graphic is centered</li>
+            <li>This template has a <code>script</code> tag to add D3</li>
+            <li>It has ten thousand lines of ai2html</li>
+            <li>There's a lot of template JS code near the bottom for ai2html/scrollama</li>
+        </ul>
+        <p>You will need <code><a href="scrolly-styles.css">scrolly-styles.css</a></code> for the page to work for you. Note that the steps themselves are below the ai2html content.
+        </p>
+        <p>To know the details of how this works, check out <a href="https://www.youtube.com/watch?v=bJKLmEBu2sE&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=7">this video</a> and <a href="https://www.youtube.com/watch?v=hZ1g7d5BPYQ&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=9">this video</a>.</p>
+    </div>
+
+    <section id="scrolly-ai2html" class="scrolly-container">
+        <div class="sticky-thing">
+          <!-- ai2html graphics -->
+          <div class="ai2html-graphic" id="graphic-1">
+
+
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 19:30 -->
+<!-- ai file: patents_1.ai -->
+<style media="screen,print">
+	#g-patents_1-box ,
+	#g-patents_1-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patents_1-box p {
+		margin:0;
+	}
+	#g-patents_1-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patents_1-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patents_1-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patents_1-box .g-aiPointText p { white-space: nowrap; }
+	#g-patents_1-full {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patents_1-full p {
+		font-family:arial,helvetica,sans-serif;
+		line-height:17px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(154,154,152);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		font-weight:regular;
+		position:static;
+	}
+	#g-patents_1-full .g-pstyle0 {
+		font-weight:500;
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(94,94,92);
+	}
+	#g-patents_1-full .g-pstyle1 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(255,186,63);
+	}
+	#g-patents_1-full .g-pstyle2 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(107,142,35);
+	}
+	#g-patents_1-full .g-pstyle3 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(226,194,144);
+	}
+	#g-patents_1-full .g-pstyle4 {
+		height:17px;
+	}
+	#g-patents_1-mobile {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patents_1-mobile p {
+		font-family:arial,helvetica,sans-serif;
+		line-height:15px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:13px;
+		text-align:left;
+		color:rgb(154,154,152);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		font-weight:regular;
+		position:static;
+	}
+	#g-patents_1-mobile .g-pstyle0 {
+		height:15px;
+	}
+	#g-patents_1-mobile .g-pstyle1 {
+		font-weight:500;
+		line-height:12px;
+		height:12px;
+		font-size:10px;
+		color:rgb(94,94,92);
+	}
+	#g-patents_1-mobile .g-pstyle2 {
+		font-weight:bold;
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(255,186,63);
+	}
+	#g-patents_1-mobile .g-pstyle3 {
+		font-weight:bold;
+		line-height:14px;
+		height:14px;
+		font-size:11px;
+		color:rgb(107,142,35);
+	}
+	#g-patents_1-mobile .g-pstyle4 {
+		font-weight:bold;
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(226,194,144);
+	}
+
+</style>
+
+<div id="g-patents_1-box" class="ai2html ai2html-responsive">
+
+	<!-- Artboard: full -->
+	<div id="g-patents_1-full" class="g-artboard" style="width:1140px; height:815px;" data-aspect-ratio="1.399" data-min-width="1140">
+<div style=""></div>
+		<img id="g-patents_1-full-img" class="g-patents_1-full-img g-aiImg" alt="" src="patents_1-full.png"/>
+		<div id="g-ai0-1" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.3217%;margin-top:-7.5px;left:63.13%;width:47px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.4444%;margin-top:-7.5px;left:36.3798%;width:47px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.4444%;margin-top:-7.5px;left:9.7428%;width:47px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.4444%;margin-top:-7.5px;left:90.1278%;width:47px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:13.2688%;margin-top:-10.1px;left:4.522%;width:61px;">
+			<p class="g-pstyle1">China</p>
+		</div>
+		<div id="g-ai0-6" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:15.8455%;margin-top:-10.1px;left:4.4324%;width:111px;">
+			<p class="g-pstyle2">United States</p>
+		</div>
+		<div id="g-ai0-7" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:18.1768%;margin-top:-10.1px;left:4.4324%;width:129px;">
+			<p class="g-pstyle3">Other Countries</p>
+		</div>
+		<div id="g-ai0-8" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:49.9116%;margin-top:-9.8px;left:8.3926%;width:98px;">
+			<p class="g-pstyle4">Applications</p>
+		</div>
+		<div id="g-ai0-9" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:69.5435%;margin-top:-9.8px;left:8.3945%;width:73px;">
+			<p class="g-pstyle4">Granted</p>
+		</div>
+	</div>
+
+	<!-- Artboard: mobile -->
+	<div id="g-patents_1-mobile" class="g-artboard" style="max-width: 375px;max-height: 546px" data-aspect-ratio="0.687" data-min-width="0" data-max-width="1139">
+<div style="padding: 0 0 145.5467% 0;"></div>
+		<img id="g-patents_1-mobile-img" class="g-patents_1-mobile-img g-aiImg" alt="" src="patents_1-mobile.png"/>
+		<div id="g-ai1-1" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.5043%;margin-top:-8.5px;left:42.7849%;width:91px;">
+			<p class="g-pstyle0">Applications</p>
+		</div>
+		<div id="g-ai1-2" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.5041%;margin-top:-8.5px;left:22.3073%;width:68px;">
+			<p class="g-pstyle0">Granted</p>
+		</div>
+		<div id="g-ai1-3" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:10.7063%;margin-top:-6.4px;left:3.2966%;width:41px;">
+			<p class="g-pstyle1">2013</p>
+		</div>
+		<div id="g-ai1-4" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:12.35%;margin-top:-8.4px;left:70.1177%;width:56px;">
+			<p class="g-pstyle2">China</p>
+		</div>
+		<div id="g-ai1-5" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:15.2924%;margin-top:-8.5px;left:70.2344%;width:92px;">
+			<p class="g-pstyle3">United States</p>
+		</div>
+		<div id="g-ai1-6" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:18.3962%;margin-top:-8.4px;left:70.2573%;width:105px;">
+			<p class="g-pstyle4">Other Countries</p>
+		</div>
+		<div id="g-ai1-7" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:36.7232%;margin-top:-6.4px;left:3.3081%;width:41px;">
+			<p class="g-pstyle1">2017</p>
+		</div>
+		<div id="g-ai1-8" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:62.0072%;margin-top:-6.4px;left:3.1328%;width:41px;">
+			<p class="g-pstyle1">2021</p>
+		</div>
+		<div id="g-ai1-9" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:88.3904%;margin-top:-6.4px;left:3.5221%;width:41px;">
+			<p class="g-pstyle1">2025</p>
+		</div>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+	(function (containerId, opts) {
+		var nameSpace = opts.namespace || '';
+		var containers = findContainers(containerId);
+		containers.forEach(resize);
+
+		function resize(container) {
+			var onResize = throttle(update, 200);
+			var waiting = !!window.IntersectionObserver;
+			var observer;
+			update();
+
+			document.addEventListener('DOMContentLoaded', update);
+			window.addEventListener('resize', onResize);
+
+			// NYT Scoop-specific code
+			if (opts.setup) {
+				opts.setup(container).on('cleanup', cleanup);
+			}
+
+			function cleanup() {
+				document.removeEventListener('DOMContentLoaded', update);
+				window.removeEventListener('resize', onResize);
+				if (observer) observer.disconnect();
+			}
+
+			function update() {
+				var artboards = selectChildren('.' + nameSpace + 'artboard[data-min-width]', container),
+						width = Math.round(container.getBoundingClientRect().width);
+
+				// Set artboard visibility based on container width
+				artboards.forEach(function(el) {
+					var minwidth = el.getAttribute('data-min-width'),
+							maxwidth = el.getAttribute('data-max-width');
+					if (+minwidth <= width && (+maxwidth >= width || maxwidth === null)) {
+						if (!waiting) {
+							selectChildren('.' + nameSpace + 'aiImg', el).forEach(updateImgSrc);
+							selectChildren('video', el).forEach(updateVideoSrc);
+						}
+						el.style.display = 'block';
+					} else {
+						el.style.display = 'none';
+					}
+				});
+
+				// Initialize lazy loading on first call
+				if (waiting && !observer) {
+					if (elementInView(container)) {
+						waiting = false;
+						update();
+					} else {
+						observer = new IntersectionObserver(onIntersectionChange, {rootMargin: "800px"});
+						observer.observe(container);
+					}
+				}
+			}
+
+			function onIntersectionChange(entries) {
+				// There may be multiple entries relating to the same container
+				// (captured at different times)
+				var isIntersecting = entries.reduce(function(memo, entry) {
+					return memo || entry.isIntersecting;
+				}, false);
+				if (isIntersecting) {
+					waiting = false;
+					// update: don't remove -- we need the observer to trigger an update
+					// when a hidden map becomes visible after user interaction
+					// (e.g. when an accordion menu or tab opens)
+					// observer.disconnect();
+					// observer = null;
+					update();
+				}
+			}
+		}
+
+		function findContainers(id) {
+			// support duplicate ids on the page
+			return selectChildren('.ai2html-responsive', document).filter(function(el) {
+				if (el.getAttribute('id') != id) return false;
+				if (el.classList.contains('ai2html-resizer')) return false;
+				el.classList.add('ai2html-resizer');
+				return true;
+			});
+		}
+
+		// Replace blank placeholder image with actual image
+		function updateImgSrc(img) {
+			var src = img.getAttribute('data-src');
+			if (src && img.getAttribute('src') != src) {
+				img.setAttribute('src', src);
+			}
+		}
+
+		function updateVideoSrc(el) {
+			var src = el.getAttribute('data-src');
+			if (src && !el.hasAttribute('src')) {
+				el.setAttribute('src', src);
+			}
+		}
+
+		function elementInView(el) {
+			var bounds = el.getBoundingClientRect();
+			return bounds.top < window.innerHeight && bounds.bottom > 0;
+		}
+
+		function selectChildren(selector, parent) {
+			return parent ? Array.prototype.slice.call(parent.querySelectorAll(selector)) : [];
+		}
+
+		// based on underscore.js
+		function throttle(func, wait) {
+			var timeout = null, previous = 0;
+			function run() {
+					previous = Date.now();
+					timeout = null;
+					func();
+			}
+			return function() {
+				var remaining = wait - (Date.now() - previous);
+				if (remaining <= 0 || remaining > wait) {
+					clearTimeout(timeout);
+					run();
+				} else if (!timeout) {
+					timeout = setTimeout(run, remaining);
+				}
+			};
+		}
+	})("g-patents_1-box", {namespace: "g-", setup: window.setupInteractive || window.getComponent});
+</script>
+<!-- End ai2html - 2025-04-12 19:30 -->
+
+
+
+          </div>
+          <div class="ai2html-graphic" id="graphic-2">
+            
+            
+            
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 20:30 -->
+<!-- ai file: patents_3.ai -->
+<style media="screen,print">
+	#g-patents_3-box ,
+	#g-patents_3-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patents_3-box p {
+		margin:0;
+	}
+	#g-patents_3-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patents_3-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patents_3-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patents_3-box .g-aiPointText p { white-space: nowrap; }
+	#g-patents_3-full {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patents_3-full p {
+		font-family:arial,helvetica,sans-serif;
+		line-height:15px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:12px;
+		text-align:left;
+		color:rgb(94,94,92);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		font-weight:regular;
+		position:static;
+	}
+	#g-patents_3-full .g-pstyle0 {
+		height:15px;
+	}
+	#g-patents_3-full .g-pstyle1 {
+		font-weight:bold;
+		line-height:17px;
+		height:17px;
+		font-size:14px;
+		color:rgb(255,186,63);
+	}
+	#g-patents_3-full .g-pstyle2 {
+		font-weight:bold;
+		line-height:17px;
+		height:17px;
+		font-size:14px;
+		color:rgb(107,142,35);
+	}
+	#g-patents_3-full .g-pstyle3 {
+		font-weight:bold;
+		line-height:17px;
+		height:17px;
+		font-size:14px;
+		color:rgb(226,194,144);
+	}
+	#g-patents_3-medium {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patents_3-medium p {
+		font-weight:regular;
+		line-height:48px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:40px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-patents_3-medium .g-pstyle0 {
+		font-weight:500;
+		line-height:180px;
+		height:180px;
+		font-size:150px;
+		text-align:center;
+	}
+	#g-patents_3-medium .g-pstyle1 {
+		font-weight:500;
+		height:48px;
+		text-align:center;
+	}
+	#g-patents_3-medium .g-cstyle0 {
+		font-weight:700;
+	}
+	#g-patents_3-mobile {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patents_3-mobile p {
+		font-family:arial,helvetica,sans-serif;
+		line-height:15px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:13px;
+		text-align:left;
+		color:rgb(154,154,152);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		font-weight:regular;
+		position:static;
+	}
+	#g-patents_3-mobile .g-pstyle0 {
+		height:15px;
+	}
+	#g-patents_3-mobile .g-pstyle1 {
+		font-weight:bold;
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(255,186,63);
+	}
+	#g-patents_3-mobile .g-pstyle2 {
+		font-weight:500;
+		line-height:12px;
+		height:12px;
+		font-size:10px;
+		color:rgb(94,94,92);
+	}
+	#g-patents_3-mobile .g-pstyle3 {
+		font-weight:bold;
+		line-height:14px;
+		height:14px;
+		font-size:11px;
+		color:rgb(107,142,35);
+	}
+	#g-patents_3-mobile .g-pstyle4 {
+		font-weight:bold;
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(226,194,144);
+	}
+
+</style>
+
+<div id="g-patents_3-box" class="ai2html ai2html-responsive">
+
+	<!-- Artboard: full -->
+	<div id="g-patents_3-full" class="g-artboard" style="width:1140px; height:815px;" data-aspect-ratio="1.399" data-min-width="1140">
+<div style=""></div>
+		<img id="g-patents_3-full-img" class="g-patents_3-full-img g-aiImg" alt="" src="patents_3-full.png"/>
+		<div id="g-ai0-1" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.7104%;margin-top:-8.7px;left:63.1337%;width:49px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.7104%;margin-top:-8.7px;left:36.3771%;width:49px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.7104%;margin-top:-8.7px;left:9.7434%;width:49px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:6.8331%;margin-top:-8.7px;left:90.1359%;width:49px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:13.6508%;margin-top:-10.3px;left:4.5236%;width:61px;">
+			<p class="g-pstyle1">China</p>
+		</div>
+		<div id="g-ai0-6" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:16.2275%;margin-top:-10.3px;left:4.4272%;width:111px;">
+			<p class="g-pstyle2">United States</p>
+		</div>
+		<div id="g-ai0-7" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:18.6815%;margin-top:-10.3px;left:4.4272%;width:129px;">
+			<p class="g-pstyle3">Other Countries</p>
+		</div>
+	</div>
+
+	<!-- Artboard: medium -->
+	<div id="g-patents_3-medium" class="g-artboard" style="width:490px; height:350px;" data-aspect-ratio="1.4" data-min-width="490" data-max-width="1139">
+<div style=""></div>
+		<img id="g-patents_3-medium-img" class="g-patents_3-medium-img g-aiImg" alt="" src="patents_3-medium.png"/>
+		<div id="g-ai1-1" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:41.1299%;margin-top:-107px;left:49.9597%;margin-left:-254px;width:508px;">
+			<p class="g-pstyle0">MEDIUM</p>
+		</div>
+		<div id="g-ai1-2" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:78.2172%;margin-top:-30.8px;left:50.4347%;margin-left:-237.5px;width:475px;">
+			<p class="g-pstyle1">But also some <span class="g-cstyle0">small text</span></p>
+		</div>
+	</div>
+
+	<!-- Artboard: mobile -->
+	<div id="g-patents_3-mobile" class="g-artboard" style="max-width: 375px;max-height: 546px" data-aspect-ratio="0.687" data-min-width="0" data-max-width="489">
+<div style="padding: 0 0 145.5467% 0;"></div>
+		<img id="g-patents_3-mobile-img" class="g-patents_3-mobile-img g-aiImg" alt="" src="patents_3-mobile.png"/>
+		<div id="g-ai2-1" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:5.9547%;margin-top:-8.5px;left:40.8919%;width:91px;">
+			<p class="g-pstyle0">Applications</p>
+		</div>
+		<div id="g-ai2-2" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:5.9545%;margin-top:-8.5px;left:23.881%;width:68px;">
+			<p class="g-pstyle0">Granted</p>
+		</div>
+		<div id="g-ai2-3" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:11.0675%;margin-top:-8.4px;left:70.0914%;width:56px;">
+			<p class="g-pstyle1">China</p>
+		</div>
+		<div id="g-ai2-4" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:11.0727%;margin-top:-6.4px;left:4.8703%;width:41px;">
+			<p class="g-pstyle2">2013</p>
+		</div>
+		<div id="g-ai2-5" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:14.0099%;margin-top:-8.5px;left:70.2081%;width:92px;">
+			<p class="g-pstyle3">United States</p>
+		</div>
+		<div id="g-ai2-6" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:16.9304%;margin-top:-8.4px;left:70.231%;width:105px;">
+			<p class="g-pstyle4">Other Countries</p>
+		</div>
+		<div id="g-ai2-7" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:38.7386%;margin-top:-6.4px;left:4.6151%;width:41px;">
+			<p class="g-pstyle2">2017</p>
+		</div>
+		<div id="g-ai2-8" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:66.2212%;margin-top:-6.4px;left:4.7065%;width:41px;">
+			<p class="g-pstyle2">2021</p>
+		</div>
+		<div id="g-ai2-9" class="g-ai2html-settings g-aiAbs g-aiPointText" style="top:94.0702%;margin-top:-6.4px;left:4.8292%;width:41px;">
+			<p class="g-pstyle2">2025</p>
+		</div>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+	(function (containerId, opts) {
+		var nameSpace = opts.namespace || '';
+		var containers = findContainers(containerId);
+		containers.forEach(resize);
+
+		function resize(container) {
+			var onResize = throttle(update, 200);
+			var waiting = !!window.IntersectionObserver;
+			var observer;
+			update();
+
+			document.addEventListener('DOMContentLoaded', update);
+			window.addEventListener('resize', onResize);
+
+			// NYT Scoop-specific code
+			if (opts.setup) {
+				opts.setup(container).on('cleanup', cleanup);
+			}
+
+			function cleanup() {
+				document.removeEventListener('DOMContentLoaded', update);
+				window.removeEventListener('resize', onResize);
+				if (observer) observer.disconnect();
+			}
+
+			function update() {
+				var artboards = selectChildren('.' + nameSpace + 'artboard[data-min-width]', container),
+						width = Math.round(container.getBoundingClientRect().width);
+
+				// Set artboard visibility based on container width
+				artboards.forEach(function(el) {
+					var minwidth = el.getAttribute('data-min-width'),
+							maxwidth = el.getAttribute('data-max-width');
+					if (+minwidth <= width && (+maxwidth >= width || maxwidth === null)) {
+						if (!waiting) {
+							selectChildren('.' + nameSpace + 'aiImg', el).forEach(updateImgSrc);
+							selectChildren('video', el).forEach(updateVideoSrc);
+						}
+						el.style.display = 'block';
+					} else {
+						el.style.display = 'none';
+					}
+				});
+
+				// Initialize lazy loading on first call
+				if (waiting && !observer) {
+					if (elementInView(container)) {
+						waiting = false;
+						update();
+					} else {
+						observer = new IntersectionObserver(onIntersectionChange, {rootMargin: "800px"});
+						observer.observe(container);
+					}
+				}
+			}
+
+			function onIntersectionChange(entries) {
+				// There may be multiple entries relating to the same container
+				// (captured at different times)
+				var isIntersecting = entries.reduce(function(memo, entry) {
+					return memo || entry.isIntersecting;
+				}, false);
+				if (isIntersecting) {
+					waiting = false;
+					// update: don't remove -- we need the observer to trigger an update
+					// when a hidden map becomes visible after user interaction
+					// (e.g. when an accordion menu or tab opens)
+					// observer.disconnect();
+					// observer = null;
+					update();
+				}
+			}
+		}
+
+		function findContainers(id) {
+			// support duplicate ids on the page
+			return selectChildren('.ai2html-responsive', document).filter(function(el) {
+				if (el.getAttribute('id') != id) return false;
+				if (el.classList.contains('ai2html-resizer')) return false;
+				el.classList.add('ai2html-resizer');
+				return true;
+			});
+		}
+
+		// Replace blank placeholder image with actual image
+		function updateImgSrc(img) {
+			var src = img.getAttribute('data-src');
+			if (src && img.getAttribute('src') != src) {
+				img.setAttribute('src', src);
+			}
+		}
+
+		function updateVideoSrc(el) {
+			var src = el.getAttribute('data-src');
+			if (src && !el.hasAttribute('src')) {
+				el.setAttribute('src', src);
+			}
+		}
+
+		function elementInView(el) {
+			var bounds = el.getBoundingClientRect();
+			return bounds.top < window.innerHeight && bounds.bottom > 0;
+		}
+
+		function selectChildren(selector, parent) {
+			return parent ? Array.prototype.slice.call(parent.querySelectorAll(selector)) : [];
+		}
+
+		// based on underscore.js
+		function throttle(func, wait) {
+			var timeout = null, previous = 0;
+			function run() {
+					previous = Date.now();
+					timeout = null;
+					func();
+			}
+			return function() {
+				var remaining = wait - (Date.now() - previous);
+				if (remaining <= 0 || remaining > wait) {
+					clearTimeout(timeout);
+					run();
+				} else if (!timeout) {
+					timeout = setTimeout(run, remaining);
+				}
+			};
+		}
+	})("g-patents_3-box", {namespace: "g-", setup: window.setupInteractive || window.getComponent});
+</script>
+<!-- End ai2html - 2025-04-12 20:30 -->
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            </div>
+          <div class="ai2html-graphic" id="graphic-3">
+
+
+
+
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 16:01 -->
+<!-- ai file: patent_graphic_5 .svg -->
+<style media="screen,print">
+	#g-patent_graphic_5-_svg-box ,
+	#g-patent_graphic_5-_svg-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patent_graphic_5-_svg-box p {
+		margin:0;
+	}
+	#g-patent_graphic_5-_svg-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patent_graphic_5-_svg-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patent_graphic_5-_svg-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patent_graphic_5-_svg-box .g-aiPointText p { white-space: nowrap; }
+	#g-patent_graphic_5-_svg-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patent_graphic_5-_svg-Artboard_1 p {
+		font-weight:regular;
+		line-height:17px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-patent_graphic_5-_svg-Artboard_1 .g-pstyle0 {
+		font-family:arial,helvetica,sans-serif;
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(94,94,92);
+	}
+	#g-patent_graphic_5-_svg-Artboard_1 .g-pstyle1 {
+		font-family:arial,helvetica,sans-serif;
+		height:17px;
+		color:rgb(154,154,152);
+	}
+	#g-patent_graphic_5-_svg-Artboard_1 .g-pstyle2 {
+		font-weight:500;
+		height:17px;
+	}
+	#g-patent_graphic_5-_svg-Artboard_1 .g-cstyle0 {
+		font-size:12px;
+	}
+
+</style>
+
+<div id="g-patent_graphic_5-_svg-box" class="ai2html">
+
+	<!-- Artboard: Artboard_1 -->
+	<div id="g-patent_graphic_5-_svg-Artboard_1" class="g-artboard" style="max-width: 1109px;max-height: 885px" data-aspect-ratio="1.254" data-min-width="0">
+<div style="padding: 0 0 79.7656% 0;"></div>
+		<img id="g-patent_graphic_5-_svg-Artboard_1-img" class="g-patent_graphic_5-_svg-Artboard_1-img g-aiImg" alt="" src="patent_graphic_5-_svg-Artboard_1.png"/>
+		<div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.5154%;margin-top:-8.1px;left:63.6339%;width:49px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:36.1317%;width:49px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:8.7556%;width:49px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:91.3886%;width:49px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:24.8451%;margin-top:-9.8px;left:7.3199%;width:98px;">
+			<p class="g-pstyle1">Applications</p>
+		</div>
+		<div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:34.8755%;margin-top:-17.5px;left:14.0809%;width:215px;">
+			<p class="g-pstyle2">Dow Agrosciences applies for the</p>
+			<p class="g-pstyle2">first CRISPR crop patent<span class="g-cstyle0">  </span></p>
+		</div>
+		<div id="g-ai0-7" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:68.2546%;margin-top:-9.8px;left:7.3888%;width:73px;">
+			<p class="g-pstyle1">Granted</p>
+		</div>
+		<div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:69.5805%;margin-top:-17.5px;left:22.1969%;width:196px;">
+			<p class="g-pstyle2">China grants the first patents, </p>
+			<p class="g-pstyle2">for modifying rice</p>
+		</div>
+	</div>
+
+</div>
+
+<!-- End ai2html - 2025-04-12 16:01 -->
+
+
+
+
+
+
+
+
+          </div>
+          <div class="ai2html-graphic" id="graphic-4">[Graphic 4 goes here]
+
+
+
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 16:02 -->
+<!-- ai file: patent_graphic_6 .svg -->
+<style media="screen,print">
+	#g-patent_graphic_6-_svg-box ,
+	#g-patent_graphic_6-_svg-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patent_graphic_6-_svg-box p {
+		margin:0;
+	}
+	#g-patent_graphic_6-_svg-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patent_graphic_6-_svg-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patent_graphic_6-_svg-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patent_graphic_6-_svg-box .g-aiPointText p { white-space: nowrap; }
+	#g-patent_graphic_6-_svg-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patent_graphic_6-_svg-Artboard_1 p {
+		font-family:arial,helvetica,sans-serif;
+		line-height:17px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		font-weight:regular;
+		position:static;
+	}
+	#g-patent_graphic_6-_svg-Artboard_1 .g-pstyle0 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(94,94,92);
+	}
+	#g-patent_graphic_6-_svg-Artboard_1 .g-pstyle1 {
+		font-weight:500;
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+	}
+	#g-patent_graphic_6-_svg-Artboard_1 .g-pstyle2 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+	}
+	#g-patent_graphic_6-_svg-Artboard_1 .g-pstyle3 {
+		height:17px;
+	}
+	#g-patent_graphic_6-_svg-Artboard_1 .g-pstyle4 {
+		height:17px;
+		color:rgb(154,154,152);
+	}
+
+</style>
+
+<div id="g-patent_graphic_6-_svg-box" class="ai2html">
+
+	<!-- Artboard: Artboard_1 -->
+	<div id="g-patent_graphic_6-_svg-Artboard_1" class="g-artboard" style="max-width: 1109px;max-height: 885px" data-aspect-ratio="1.254" data-min-width="0">
+<div style="padding: 0 0 79.7656% 0;"></div>
+		<img id="g-patent_graphic_6-_svg-Artboard_1-img" class="g-patent_graphic_6-_svg-Artboard_1-img g-aiImg" alt="" src="patent_graphic_6-_svg-Artboard_1.png"/>
+		<div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.5154%;margin-top:-8.1px;left:63.6339%;width:49px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:36.1317%;width:49px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:8.7556%;width:49px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:91.3886%;width:49px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:13.5114%;margin-top:-7.5px;left:46.1808%;width:47px;">
+			<p class="g-pstyle1">2019</p>
+		</div>
+		<div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:13.7375%;margin-top:-7.5px;left:25.9651%;width:47px;">
+			<p class="g-pstyle1">2016</p>
+		</div>
+		<div id="g-ai0-7" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:21.3766%;margin-top:-8.1px;left:41.551%;width:29px;">
+			<p class="g-pstyle2">  </p>
+		</div>
+		<div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:23.692%;margin-top:-26.6px;left:29.8395%;width:193px;">
+			<p class="g-pstyle3">Chinese applications rise to</p>
+			<p class="g-pstyle3">over five times the</p>
+			<p class="g-pstyle3">number from the U.S.</p>
+		</div>
+		<div id="g-ai0-9" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:24.8451%;margin-top:-9.8px;left:7.32%;width:98px;">
+			<p class="g-pstyle4">Applications</p>
+		</div>
+		<div id="g-ai0-10" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:68.2546%;margin-top:-9.8px;left:7.385%;width:73px;">
+			<p class="g-pstyle4">Granted</p>
+		</div>
+	</div>
+
+</div>
+
+<!-- End ai2html - 2025-04-12 16:02 -->
+
+
+
+
+
+
+
+
+
+
+          </div>
+          <div class="ai2html-graphic" id="graphic-5">
+
+
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 16:03 -->
+<!-- ai file: patent_graphic_7.svg -->
+<style media="screen,print">
+	#g-patent_graphic_7_svg-box ,
+	#g-patent_graphic_7_svg-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patent_graphic_7_svg-box p {
+		margin:0;
+	}
+	#g-patent_graphic_7_svg-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patent_graphic_7_svg-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patent_graphic_7_svg-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patent_graphic_7_svg-box .g-aiPointText p { white-space: nowrap; }
+	#g-patent_graphic_7_svg-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patent_graphic_7_svg-Artboard_1 p {
+		font-family:arial,helvetica,sans-serif;
+		line-height:17px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		font-weight:regular;
+		position:static;
+	}
+	#g-patent_graphic_7_svg-Artboard_1 .g-pstyle0 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(94,94,92);
+	}
+	#g-patent_graphic_7_svg-Artboard_1 .g-pstyle1 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(255,186,63);
+	}
+	#g-patent_graphic_7_svg-Artboard_1 .g-pstyle2 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(107,142,35);
+	}
+	#g-patent_graphic_7_svg-Artboard_1 .g-pstyle3 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(226,194,144);
+	}
+	#g-patent_graphic_7_svg-Artboard_1 .g-pstyle4 {
+		height:17px;
+		color:rgb(154,154,152);
+	}
+	#g-patent_graphic_7_svg-Artboard_1 .g-pstyle5 {
+		height:17px;
+	}
+
+</style>
+
+<div id="g-patent_graphic_7_svg-box" class="ai2html">
+
+	<!-- Artboard: Artboard_1 -->
+	<div id="g-patent_graphic_7_svg-Artboard_1" class="g-artboard" style="max-width: 1109px;max-height: 885px" data-aspect-ratio="1.254" data-min-width="0">
+<div style="padding: 0 0 79.7656% 0;"></div>
+		<img id="g-patent_graphic_7_svg-Artboard_1-img" class="g-patent_graphic_7_svg-Artboard_1-img g-aiImg" alt="" src="patent_graphic_7_svg-Artboard_1.png"/>
+		<div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.5154%;margin-top:-8.1px;left:63.6339%;width:49px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:36.1317%;width:49px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:8.7556%;width:49px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:91.3886%;width:49px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:9.8509%;margin-top:-10.1px;left:3.3905%;width:61px;">
+			<p class="g-pstyle1">China</p>
+		</div>
+		<div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:12.2248%;margin-top:-10.1px;left:3.2913%;width:111px;">
+			<p class="g-pstyle2">United States</p>
+		</div>
+		<div id="g-ai0-7" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:14.3727%;margin-top:-10.1px;left:3.2913%;width:129px;">
+			<p class="g-pstyle3">Other Countries</p>
+		</div>
+		<div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:24.8451%;margin-top:-9.8px;left:7.32%;width:98px;">
+			<p class="g-pstyle4">Applications</p>
+		</div>
+		<div id="g-ai0-9" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:63.5971%;margin-top:-26.6px;left:72.4763%;width:168px;">
+			<p class="g-pstyle5">The share of granted </p>
+			<p class="g-pstyle5">Chinese patents grows </p>
+			<p class="g-pstyle5">to over 40%</p>
+		</div>
+		<div id="g-ai0-10" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:68.2546%;margin-top:-9.8px;left:7.385%;width:73px;">
+			<p class="g-pstyle4">Granted</p>
+		</div>
+	</div>
+
+</div>
+
+<!-- End ai2html - 2025-04-12 16:03 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+          </div>
+          <div class="ai2html-graphic" id="graphic-6">
+
+
+
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 16:04 -->
+<!-- ai file: patent_graphic_8 .svg -->
+<style media="screen,print">
+	#g-patent_graphic_8-_svg-box ,
+	#g-patent_graphic_8-_svg-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patent_graphic_8-_svg-box p {
+		margin:0;
+	}
+	#g-patent_graphic_8-_svg-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patent_graphic_8-_svg-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patent_graphic_8-_svg-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patent_graphic_8-_svg-box .g-aiPointText p { white-space: nowrap; }
+	#g-patent_graphic_8-_svg-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patent_graphic_8-_svg-Artboard_1 p {
+		font-family:arial,helvetica,sans-serif;
+		line-height:17px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		font-weight:regular;
+		position:static;
+	}
+	#g-patent_graphic_8-_svg-Artboard_1 .g-pstyle0 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(94,94,92);
+	}
+	#g-patent_graphic_8-_svg-Artboard_1 .g-pstyle1 {
+		height:17px;
+	}
+	#g-patent_graphic_8-_svg-Artboard_1 .g-pstyle2 {
+		height:17px;
+		color:rgb(154,154,152);
+	}
+
+</style>
+
+<div id="g-patent_graphic_8-_svg-box" class="ai2html">
+
+	<!-- Artboard: Artboard_1 -->
+	<div id="g-patent_graphic_8-_svg-Artboard_1" class="g-artboard" style="max-width: 1109px;max-height: 885px" data-aspect-ratio="1.254" data-min-width="0">
+<div style="padding: 0 0 79.7656% 0;"></div>
+		<img id="g-patent_graphic_8-_svg-Artboard_1-img" class="g-patent_graphic_8-_svg-Artboard_1-img g-aiImg" alt="" src="patent_graphic_8-_svg-Artboard_1.png"/>
+		<div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.5154%;margin-top:-8.1px;left:63.6339%;width:49px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:36.1317%;width:49px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:8.7556%;width:49px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:91.3886%;width:49px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:21.3407%;margin-top:-9.8px;left:79.0713%;width:161px;">
+			<p class="g-pstyle1">Russia: Improvements</p>
+		</div>
+		<div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:22.019%;margin-top:-9.8px;left:31.7584%;width:189px;">
+			<p class="g-pstyle1">South Korea: Modifications</p>
+		</div>
+		<div id="g-ai0-7" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:23.1494%;margin-top:-9.8px;left:79.0713%;width:164px;">
+			<p class="g-pstyle1">on potatoes and wheat</p>
+		</div>
+		<div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:23.9407%;margin-top:-9.8px;left:31.7584%;width:164px;">
+			<p class="g-pstyle1">of potatoes, tomatoes, </p>
+		</div>
+		<div id="g-ai0-9" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:24.8451%;margin-top:-9.8px;left:7.32%;width:98px;">
+			<p class="g-pstyle2">Applications</p>
+		</div>
+		<div id="g-ai0-10" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:25.8625%;margin-top:-9.8px;left:31.7584%;width:115px;">
+			<p class="g-pstyle1">rice and others</p>
+		</div>
+		<div id="g-ai0-11" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:40.7845%;margin-top:-9.8px;left:14.0848%;width:137px;">
+			<p class="g-pstyle1">Germany: Broader</p>
+		</div>
+		<div id="g-ai0-12" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:42.7063%;margin-top:-9.8px;left:14.0848%;width:152px;">
+			<p class="g-pstyle1">CRISPR methods to </p>
+		</div>
+		<div id="g-ai0-13" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:44.6281%;margin-top:-9.8px;left:14.0848%;width:182px;">
+			<p class="g-pstyle1">edit genes of many plants</p>
+		</div>
+		<div id="g-ai0-14" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:68.2546%;margin-top:-9.8px;left:7.385%;width:73px;">
+			<p class="g-pstyle2">Granted</p>
+		</div>
+	</div>
+
+</div>
+
+<!-- End ai2html - 2025-04-12 16:04 -->
+
+
+
+
+
+
+
+          </div>
+          <div class="ai2html-graphic" id="graphic-7">
+
+
+
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 16:06 -->
+<!-- ai file: patent_graphic_9.svg -->
+<style media="screen,print">
+	#g-patent_graphic_9_svg-box ,
+	#g-patent_graphic_9_svg-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patent_graphic_9_svg-box p {
+		margin:0;
+	}
+	#g-patent_graphic_9_svg-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patent_graphic_9_svg-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patent_graphic_9_svg-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patent_graphic_9_svg-box .g-aiPointText p { white-space: nowrap; }
+	#g-patent_graphic_9_svg-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patent_graphic_9_svg-Artboard_1 p {
+		font-family:arial,helvetica,sans-serif;
+		font-weight:regular;
+		line-height:17px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-patent_graphic_9_svg-Artboard_1 .g-pstyle0 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(94,94,92);
+	}
+	#g-patent_graphic_9_svg-Artboard_1 .g-pstyle1 {
+		font-weight:bold;
+		height:17px;
+	}
+	#g-patent_graphic_9_svg-Artboard_1 .g-pstyle2 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(107,142,35);
+	}
+	#g-patent_graphic_9_svg-Artboard_1 .g-pstyle3 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(107,142,35);
+	}
+	#g-patent_graphic_9_svg-Artboard_1 .g-pstyle4 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(255,186,63);
+	}
+
+</style>
+
+<div id="g-patent_graphic_9_svg-box" class="ai2html">
+
+	<!-- Artboard: Artboard_1 -->
+	<div id="g-patent_graphic_9_svg-Artboard_1" class="g-artboard" style="max-width: 1109px;max-height: 885px" data-aspect-ratio="1.254" data-min-width="0">
+<div style="padding: 0 0 79.7656% 0;"></div>
+		<img id="g-patent_graphic_9_svg-Artboard_1-img" class="g-patent_graphic_9_svg-Artboard_1-img g-aiImg" alt="" src="patent_graphic_9_svg-Artboard_1.png"/>
+		<div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.5154%;margin-top:-8.1px;left:63.6339%;width:49px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:36.1317%;width:49px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:8.7556%;width:49px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:91.3886%;width:49px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:10.7554%;margin-top:-10.1px;left:9.9549%;width:241px;">
+			<p class="g-pstyle1">Non-specific crops applications  </p>
+		</div>
+		<div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:13.2424%;margin-top:-10.1px;left:15.7259%;width:139px;">
+			<p class="g-pstyle2">From the U.S.  </p>
+		</div>
+		<div id="g-ai0-7" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.046%;margin-top:-8.1px;left:22.9802%;width:29px;">
+			<p class="g-pstyle3">  </p>
+		</div>
+		<div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.1591%;margin-top:-8.1px;left:28.0884%;width:29px;">
+			<p class="g-pstyle3">  </p>
+		</div>
+		<div id="g-ai0-9" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.8423%;margin-top:-10.1px;left:15.818%;width:118px;">
+			<p class="g-pstyle4">From China</p>
+		</div>
+	</div>
+
+</div>
+
+<!-- End ai2html - 2025-04-12 16:06 -->
+
+
+
+
+
+
+
+          </div>
+          <div class="ai2html-graphic" id="graphic-8">
+
+
+
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 16:09 -->
+<!-- ai file: patent_graphic_10.svg -->
+<style media="screen,print">
+	#g-patent_graphic_10_svg-box ,
+	#g-patent_graphic_10_svg-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patent_graphic_10_svg-box p {
+		margin:0;
+	}
+	#g-patent_graphic_10_svg-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patent_graphic_10_svg-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patent_graphic_10_svg-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patent_graphic_10_svg-box .g-aiPointText p { white-space: nowrap; }
+	#g-patent_graphic_10_svg-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patent_graphic_10_svg-Artboard_1 p {
+		font-family:arial,helvetica,sans-serif;
+		font-weight:regular;
+		line-height:17px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle0 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(94,94,92);
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle1 {
+		height:17px;
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle2 {
+		font-weight:bold;
+		height:17px;
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle3 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(107,142,35);
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle4 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(107,142,35);
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle5 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(255,186,63);
+	}
+
+</style>
+
+<div id="g-patent_graphic_10_svg-box" class="ai2html">
+
+	<!-- Artboard: Artboard_1 -->
+	<div id="g-patent_graphic_10_svg-Artboard_1" class="g-artboard" style="max-width: 1109px;max-height: 885px" data-aspect-ratio="1.254" data-min-width="0">
+<div style="padding: 0 0 79.7656% 0;"></div>
+		<img id="g-patent_graphic_10_svg-Artboard_1-img" class="g-patent_graphic_10_svg-Artboard_1-img g-aiImg" alt="" src="patent_graphic_10_svg-Artboard_1.png"/>
+		<div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.5154%;margin-top:-8.1px;left:63.6339%;width:49px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:36.1317%;width:49px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:8.7556%;width:49px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:91.3886%;width:49px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:10.7144%;margin-top:-9.8px;left:29.0352%;width:30px;">
+			<p class="g-pstyle1">  </p>
+		</div>
+		<div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:10.7552%;margin-top:-10.1px;left:9.9549%;width:301px;">
+			<p class="g-pstyle2">Applications filed in foreign patent offices</p>
+		</div>
+		<div id="g-ai0-7" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:13.2424%;margin-top:-10.1px;left:15.7259%;width:139px;">
+			<p class="g-pstyle3">From the U.S.  </p>
+		</div>
+		<div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.046%;margin-top:-8.1px;left:22.9847%;width:29px;">
+			<p class="g-pstyle4">  </p>
+		</div>
+		<div id="g-ai0-9" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.1591%;margin-top:-8.1px;left:28.0884%;width:29px;">
+			<p class="g-pstyle4">  </p>
+		</div>
+		<div id="g-ai0-10" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.8423%;margin-top:-10.1px;left:15.8181%;width:118px;">
+			<p class="g-pstyle5">From China</p>
+		</div>
+	</div>
+
+</div>
+
+<!-- End ai2html - 2025-04-12 16:09 -->
+
+
+
+
+
+          </div>
+          <div class="ai2html-graphic" id="graphic-9">
+
+
+
+<!-- Generated by ai2html v0.121.1 - 2025-04-12 16:09 -->
+<!-- ai file: patent_graphic_10.svg -->
+<style media="screen,print">
+	#g-patent_graphic_10_svg-box ,
+	#g-patent_graphic_10_svg-box .g-artboard {
+		margin:0 auto;
+	}
+	#g-patent_graphic_10_svg-box p {
+		margin:0;
+	}
+	#g-patent_graphic_10_svg-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-patent_graphic_10_svg-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-patent_graphic_10_svg-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-patent_graphic_10_svg-box .g-aiPointText p { white-space: nowrap; }
+	#g-patent_graphic_10_svg-Artboard_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-patent_graphic_10_svg-Artboard_1 p {
+		font-family:arial,helvetica,sans-serif;
+		font-weight:regular;
+		line-height:17px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:14px;
+		text-align:left;
+		color:rgb(0,0,0);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle0 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(94,94,92);
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle1 {
+		height:17px;
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle2 {
+		font-weight:bold;
+		height:17px;
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle3 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(107,142,35);
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle4 {
+		line-height:14px;
+		height:14px;
+		font-size:12px;
+		color:rgb(107,142,35);
+	}
+	#g-patent_graphic_10_svg-Artboard_1 .g-pstyle5 {
+		font-weight:bold;
+		height:17px;
+		color:rgb(255,186,63);
+	}
+
+</style>
+
+<div id="g-patent_graphic_10_svg-box" class="ai2html">
+
+	<!-- Artboard: Artboard_1 -->
+	<div id="g-patent_graphic_10_svg-Artboard_1" class="g-artboard" style="max-width: 1109px;max-height: 885px" data-aspect-ratio="1.254" data-min-width="0">
+<div style="padding: 0 0 79.7656% 0;"></div>
+		<img id="g-patent_graphic_10_svg-Artboard_1-img" class="g-patent_graphic_10_svg-Artboard_1-img g-aiImg" alt="" src="patent_graphic_10_svg-Artboard_1.png"/>
+		<div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.5154%;margin-top:-8.1px;left:63.6339%;width:49px;">
+			<p class="g-pstyle0">2021</p>
+		</div>
+		<div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:36.1317%;width:49px;">
+			<p class="g-pstyle0">2017</p>
+		</div>
+		<div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:8.7556%;width:49px;">
+			<p class="g-pstyle0">2013</p>
+		</div>
+		<div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:3.6284%;margin-top:-8.1px;left:91.3886%;width:49px;">
+			<p class="g-pstyle0">2025</p>
+		</div>
+		<div id="g-ai0-5" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:10.7144%;margin-top:-9.8px;left:29.0352%;width:30px;">
+			<p class="g-pstyle1">  </p>
+		</div>
+		<div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:10.7552%;margin-top:-10.1px;left:9.9549%;width:301px;">
+			<p class="g-pstyle2">Applications filed in foreign patent offices</p>
+		</div>
+		<div id="g-ai0-7" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:13.2424%;margin-top:-10.1px;left:15.7259%;width:139px;">
+			<p class="g-pstyle3">From the U.S.  </p>
+		</div>
+		<div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.046%;margin-top:-8.1px;left:22.9847%;width:29px;">
+			<p class="g-pstyle4">  </p>
+		</div>
+		<div id="g-ai0-9" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.1591%;margin-top:-8.1px;left:28.0884%;width:29px;">
+			<p class="g-pstyle4">  </p>
+		</div>
+		<div id="g-ai0-10" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:15.8423%;margin-top:-10.1px;left:15.8181%;width:118px;">
+			<p class="g-pstyle5">From China</p>
+		</div>
+	</div>
+
+</div>
+
+<!-- End ai2html - 2025-04-12 16:09 -->
+
+
+
+
+
+
+          </div>
+        </div>
+      
+        <div class="scrolly-overlay">
+          <div class="step" data-step="1">Step 1: Intro</div>
+          <div class="step" data-step="2">Step 2: Something changes</div>
+          <div class="step" data-step="3">Step 3: Another moment</div>
+          <div class="step" data-step="4">Step 4: Keep going</div>
+          <div class="step" data-step="5">Step 5: Midpoint</div>
+          <div class="step" data-step="6">Step 6: Dig deeper</div>
+          <div class="step" data-step="7">Step 7: Nearly there</div>
+          <div class="step" data-step="8">Step 8: Almost done</div>
+          <div class="step" data-step="9">Step 9: Conclusion</div>
+        </div>
+      </section>
+      
+
+
+
+
+        <div class="steps-container">
+            <div class="step" id="step-one">
+                <div>
+                    <p>Step one, adjust the CSS at the bottom of this page to change spacing between steps.</p>
+                    <p>Here is some more text, in case there are multiple paragraphs.</p>
+                </div>
+            </div>
+            <div class="step" id="step-two">
+                <p>Find the JavaScript code near the bottom to associate each step with an image change.</p>
+            </div>
+            <div class="step" id="step-three">
+                <p>By default, the steps are a set width and the text is left-centered. Find the rule in
+                    <code>scrolly-styles.css</code> that refers to <code>.step > *</code> to adjust or remove the width,
+                    center
+                    the text, or change the background color/opacity.
+                </p>
+            </div>
+        </div>
+    </section>
+    <div class="content">
+        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
+            aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+            Nemo
+            enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
+            eos qui
+            ratione voluptatem sequi nesciunt.</p>
+        <figure>
+            <img
+                src="https://static01.nyt.com/images/2024/02/01/multimedia/01eu-hungary-orban-2-ghkw/01eu-hungary-orban-2-ghkw-superJumbo.jpg?quality=75&auto=webp">
+            <figcaption>This is an image caption</figcaption>
+        </figure>
+        <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
+            numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
+            veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
+            consequatur?
+        </p>
+    </div>
+    <div class="footer">
+        <div class="content">
+            <p>You can find the code for this template <a href="https://github.com/jsoma/page-templates/">here</a>.
+                Delete
+                these lines
+                when you use it, and don't forget to change the <code>title</code> tag!!!</p>
+        </div>
+    </div>
+    <style>
+        .hidden {
+            display: none;
+        }
+    </style>
+    <script>
+
+        
+
+        function hideNote() {
+            // annotation: #path-1, #text-1, #path-2, #text-2
+            d3.select("#path-1").classed('hidden', true)
+            d3.select("#text-1").classed('hidden', true)
+            d3.select("#path-2").classed('hidden', true)
+            d3.select("#text-2").classed('hidden', true)
+        }
+
+        /* Scrollytelling code goes under here */
+        hideNote()
+
+        d3.select("#step-one").on('stepout', function (e) {
+            if (e.detail.direction === 'up') {
+                // undo the changes from step one
+                hideNote()
+            }
+        })
+
+        d3.select("#step-one").on('stepin', function (e) {
+            console.log("Got to step one")
+            // undo changes from step two
+            d3.selectAll("[data-name='africa'] path").style('stroke', 'none')
+
+            // do changes for step one
+            d3.select("#path-1").classed('hidden', false)
+            d3.select("#text-1").classed('hidden', false)
+            d3.select("#path-2").classed('hidden', false)
+            d3.select("#text-2").classed('hidden', false)
+        })
+
+        d3.select("#step-two").on('stepin', function (e) {
+
+            // undo changes from step one
+            hideNote()
+
+            // do changes for step two
+            console.log("Got to step two")
+            d3.selectAll("[data-name='africa'] path").style('stroke', 'black')
+        })
+
+        d3.select("#step-three").on('stepin', function (e) {
+            // undo changes from step two
+            d3.selectAll("[data-name='africa'] path").style('stroke', 'none')
+        })
+
+
+    </script>
+
+
+
+    <script>
+     
+    const scroller = scrollama();
+
+        scroller
+            .setup({
+            step: ".step",
+            offset: 0.5,
+            debug: false
+            })
+            .onStepEnter(response => {
+            // Remove active class from all
+            document.querySelectorAll('.ai2html-graphic').forEach(d => d.classList.remove('active'));
+
+            // Add active class to current
+            const step = response.element.dataset.step;
+            const current = document.querySelector(`#graphic-${step}`);
+            if (current) current.classList.add('active');
+            });
+    </script>
+
+
+    <style>
+        /* Change this to adjust the padding between steps */
+        .step {
+            margin-bottom: 70vh;
+        }
+    </style>
+
+    <script type="text/javascript">
+            (function () {
+                // only want one resizer on the page
+                if (document.documentElement.className.indexOf("g-resizer-v3-init") > -1) return;
+                document.documentElement.className += " g-resizer-v3-init";
+                // require IE9+
+                if (!("querySelector" in document)) return;
+                function resizer() {
+                    var elements = Array.prototype.slice.call(document.querySelectorAll(".g-artboard[data-min-width]")),
+                        widthById = {};
+                    elements.forEach(function (el) {
+                        var parent = el.parentNode,
+                            width = widthById[parent.id] || parent.getBoundingClientRect().width,
+                            minwidth = el.getAttribute("data-min-width"),
+                            maxwidth = el.getAttribute("data-max-width");
+                        widthById[parent.id] = width;
+
+                        if (+minwidth <= width && (+maxwidth >= width || maxwidth === null)) {
+                            el.style.display = "block";
+                        } else {
+                            el.style.display = "none";
+                        }
+                    });
+                    try {
+                        if (window.parent && window.parent.$) {
+                            window.parent.$("body").trigger("resizedcontent", [window]);
+                        }
+                        if (window.require) {
+                            require(['foundation/main'], function () {
+                                require(['shared/interactive/instances/app-communicator'], function (AppCommunicator) {
+                                    AppCommunicator.triggerResize();
+                                });
+                            });
+                        }
+                    } catch (e) { console.log(e); }
+                }
+
+                document.addEventListener('DOMContentLoaded', resizer);
+                // feel free to replace throttle with _.throttle, if available
+                window.addEventListener('resize', throttle(resizer, 200));
+
+                function throttle(func, wait) {
+                    // from underscore.js
+                    var _now = Date.now || function () { return new Date().getTime(); },
+                        context, args, result, timeout = null, previous = 0;
+                    var later = function () {
+                        previous = _now();
+                        timeout = null;
+                        result = func.apply(context, args);
+                        if (!timeout) context = args = null;
+                    };
+                    return function () {
+                        var now = _now(), remaining = wait - (now - previous);
+                        context = this;
+                        args = arguments;
+                        if (remaining <= 0 || remaining > wait) {
+                            if (timeout) {
+                                clearTimeout(timeout);
+                                timeout = null;
+                            }
+                            previous = now;
+                            result = func.apply(context, args);
+                            if (!timeout) context = args = null;
+                        } else if (!timeout && options && options.trailing !== false) {
+                            timeout = setTimeout(later, remaining);
+                        }
+                        return result;
+                    };
+                }
+
+
+            })();
+    </script>
+</body>
+
+</html>
