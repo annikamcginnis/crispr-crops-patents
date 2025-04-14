@@ -1,0 +1,90 @@
+crop,Cold Tolerance,Disease Resistance,Drought Adaptation,Gene Editing Systems Development,Heat Tolerance,Other Genetic Improvement for Crop Traits,Other Purpose,Pesticide Resistance,Yield Improvement,Total
+Crop plants,3,35,20,324,1,45,35,10,24,497
+Rice,8,53,27,22,3,66,1,15,92,287
+Corn/Maize,3,22,8,3,3,20,2,1,60,122
+Tomatoes,2,12,7,3,1,29,1,0,17,72
+Soybeans,0,10,5,6,0,12,2,2,30,67
+Tobacco,0,7,6,8,0,31,0,0,6,58
+Canola,0,6,2,0,0,13,0,0,25,46
+Other plants,1,2,0,17,0,10,14,0,1,45
+Wheat,0,12,0,7,0,10,0,0,13,42
+Cotton,0,0,0,3,0,14,0,1,3,21
+Potatoes,0,7,0,0,0,14,0,0,0,21
+Alfalfa,0,0,0,12,0,6,0,0,0,18
+Cabbage,0,2,0,5,0,7,2,0,1,17
+"Corn, Tomato, Soybeans",0,0,0,10,0,0,0,0,0,10
+Poplar,0,0,0,2,0,6,0,0,2,10
+Watermelon,0,1,0,0,0,8,0,0,0,9
+Citrus,0,3,0,1,0,3,0,0,0,7
+Grape,0,1,1,2,0,2,0,0,0,6
+Lettuce,0,0,0,0,0,4,0,1,1,6
+Sorghum,0,0,1,0,0,3,0,0,1,5
+Peanuts,0,0,0,1,0,3,0,0,0,4
+"Tobacco, Tomatoes",0,4,0,0,0,0,0,0,0,4
+Arabidopsis,0,0,2,0,0,0,0,0,1,3
+Cucumber,0,0,0,0,0,3,0,0,0,3
+Leguminous Plants,0,0,0,0,0,1,0,0,2,3
+Millet,0,0,0,0,0,3,0,0,0,3
+"Rice, Corn, Wheat, Soybeans, Cotton",0,1,0,0,0,0,0,0,2,3
+Switchgrass,0,0,0,1,0,0,0,0,2,3
+Bamboo,0,0,0,1,0,0,0,0,1,2
+Banana,0,1,0,0,0,1,0,0,0,2
+Basil,0,2,0,0,0,0,0,0,0,2
+Carrot,0,1,0,0,0,1,0,0,0,2
+"Corn, Soybeans",0,0,0,0,0,0,0,0,2,2
+Eggplant,1,0,0,0,0,1,0,0,0,2
+Mung bean,0,0,0,0,0,2,0,0,0,2
+Papaya,0,0,0,1,0,0,1,0,0,2
+Pine,0,1,0,0,0,0,1,0,0,2
+"Potatoes, Tobacco",0,0,0,2,0,0,0,0,0,2
+Strawberry,0,0,0,0,0,1,0,0,1,2
+Sweet Potato,0,2,0,0,0,0,0,0,0,2
+"Alfalfa, Soybeans",0,0,0,0,0,0,0,0,1,1
+Asparagus,0,0,1,0,0,0,0,0,0,1
+Barley,0,0,0,1,0,0,0,0,0,1
+Beet,0,0,0,0,0,1,0,0,0,1
+Broccoli,0,0,0,0,0,1,0,0,0,1
+Cannabis,0,0,0,1,0,0,0,0,0,1
+Capsicum,0,0,0,1,0,0,0,0,0,1
+Cassava,0,0,0,1,0,0,0,0,0,1
+Chrysanthemum,0,0,0,1,0,0,0,0,0,1
+Coffee,0,0,0,0,0,0,1,0,0,1
+"Corn, Rice",0,0,0,0,0,0,0,0,1,1
+"Corn, Wheat",0,0,0,0,0,1,0,0,0,1
+"Dandelion, Taraxacum kok-saghyz",0,0,0,1,0,0,0,0,0,1
+Elephant Grass,0,0,0,1,0,0,0,0,0,1
+Flax,0,0,0,0,0,1,0,0,0,1
+Foxtail millet,0,0,0,0,0,0,0,0,1,1
+Garlic,0,0,0,0,0,1,0,0,0,1
+Ginger,0,1,0,0,0,0,0,0,0,1
+Gingko,0,0,0,0,0,1,0,0,0,1
+Litchi,0,1,0,0,0,0,0,0,0,1
+Lychee,0,1,0,0,0,0,0,0,0,1
+Mulberry,0,0,0,1,0,0,0,0,0,1
+Muskmelon,0,0,0,1,0,0,0,0,0,1
+Mustard,0,0,0,0,0,1,0,0,0,1
+No crops mentioned.,0,0,0,0,0,0,1,0,0,1
+Patchouli,0,0,0,1,0,0,0,0,0,1
+Peach,0,1,0,0,0,0,0,0,0,1
+Pear,0,0,0,1,0,0,0,0,0,1
+Peas,0,0,0,1,0,0,0,0,0,1
+Petunia,0,0,0,0,0,1,0,0,0,1
+Pineapple,0,0,0,0,0,0,1,0,0,1
+"Potatoes, Citrus",0,1,0,0,0,0,0,0,0,1
+Radish,0,0,0,1,0,0,0,0,0,1
+Rehmannia,0,0,0,0,0,1,0,0,0,1
+Rosáceas,0,0,0,0,0,0,0,0,1,1
+Ryegrass,0,0,0,0,0,1,0,0,0,1
+Safflower,0,0,0,0,0,1,0,0,0,1
+Sea Lavender,0,0,0,0,0,1,0,0,0,1
+Straw mushroom,0,0,0,0,0,1,0,0,0,1
+Sugarcane,0,0,0,0,0,0,0,0,1,1
+"Sugarcane, Corn",0,0,0,0,0,1,0,0,0,1
+"Sugarcane, Energycane",0,0,0,0,0,0,0,0,1,1
+Tea,0,0,0,1,0,0,0,0,0,1
+Tilapia,0,0,0,0,0,0,1,0,0,1
+"Tobacco, Rice",0,0,0,0,0,1,0,0,0,1
+"Tobacco, Tea",0,0,0,1,0,0,0,0,0,1
+"Tomatoes, Potatoes",0,0,0,0,0,0,0,0,1,1
+"Wheat, Barley",0,1,0,0,0,0,0,0,0,1
+Zoysia Grass,0,0,0,1,0,0,0,0,0,1
